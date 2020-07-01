@@ -1,0 +1,75 @@
+<html>
+<head>
+    <title>DogPhotoApp</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+    <div style="width: 300px;">
+        <h2>DogPhotoApp</h2>
+    </div>
+<hr>
+
+<p>Click here to see more <a href="#">dog photos</a></p>
+<a href="#"><img class="soft-corners" src="https://bit.ly/2BR4SUU" alt="Picture of a happy dog."></a>
+<br>
+<br>
+<hr>
+<br>
+<div class="frame-positive">
+    <p class="center-bold">Things dogs love</p>
+    <ul>
+        <li>Food</li>
+        <li>To play</li>
+        <li>Food</li>
+        <li>Going for a walk</li>
+        <li>Humans</li>
+        <li>Going for a walk again</li>
+        <li>also they like more food</li>
+    </ul>
+</div>
+<br>
+<div class="frame-negative">
+    <p class="center-bold">Top things dogs hate</p>
+    <ol>
+        <li>Not getting food</li>
+        <li>Not going for walks</li>
+        <li>Showers</li>
+    </ol>
+</div>
+<br>
+<hr>
+<br>
+<div>
+<form action="/submit-dog-photo">
+    <div class="frame-neutral">
+        <p class="center-bold">Place</p>
+            <div class="center-label">
+                <label><input type="radio" name="inside-outside" checked> Inside</label>
+                <label><input type="radio" name="inside-outside"> Outside</label>
+            </div>
+    </div>
+<br>
+    <div class="frame-neutral">
+        <p class="center-bold">Features</p>
+        <div class="center-label">
+            <label><input type="checkbox" name="personality" checked>Loving</label>
+            <label><input type="checkbox" name="personality" checked>Happy</label>
+            <br>
+            <label><input type="checkbox" name="personality">Lazy</label>
+            <label><input type="checkbox" name="personality">Sleepy</label>
+        </div>
+    </div>
+<br>
+    <div class="frame-neutral">
+        <p class="center-bold">Where is the photo?</p>
+        <div class="center-label">
+            <input class="round-field-button" type="text" placeholder="dog photo URL">
+            <button class="round-field-button" type="submit">Submit</button>
+        </div>
+    </div>
+</form>
+</div>
+
+</body>
+</html>

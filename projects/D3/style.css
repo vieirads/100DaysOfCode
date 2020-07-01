@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap');
+
+:root {
+    --global-width: 300px;
+    --global-border-radius: 10px;
+    --global-shadow-effect: 10px 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+hr {
+    width: 270px;
+    margin: 10px 10px 10px 10px;
+}
+
+h2 {
+    font-family: "Lobster Two";
+    font-size: 40px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.soft-corners {
+    border-radius: 50%;
+    width: var(--global-width);
+    box-shadow: var(--global-shadow-effect);
+}
+
+.round-field-button {
+    border-radius: 5px;
+}
+
+.frame-positive {
+    background-color: #39F077;
+    color: #2E712A;
+    width: var(--global-width);
+    border: 1px solid #2E712A;
+    border-radius: var(--global-border-radius);
+    box-shadow: var(--global-shadow-effect);
+    font-family: sans-serif;
+}
+
+.frame-negative {
+    background-color: #EFB3AB;
+    color: #CF513D;
+    width: var(--global-width);
+    border: 1px solid #CF513D;
+    border-radius: var(--global-border-radius);
+    box-shadow: var(--global-shadow-effect);
+    font-family: sans-serif;
+}
+
+.frame-neutral {
+    width: var(--global-width);
+    border: 1px solid #CCC;
+    border-radius: var(--global-border-radius);
+    box-shadow: var(--global-shadow-effect);
+    font-family: sans-serif;
+    padding: -10px -10px 20px 30px;
+}
+
+.center-label {
+    margin: 5px 10px 10px 10px;
+    text-align: center;
+}
+
+.center-bold {
+    text-align: center;
+    font-weight: bold;
+    font-family: "Lobster Two";
+    font-size: 25px;
+    margin: 10px 0px 10px 0px;
+}

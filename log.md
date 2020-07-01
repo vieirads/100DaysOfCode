@@ -17,7 +17,7 @@
 
 I learned a little bit about ``input`` tags and how they can be have different types like ``text``, ``radio``, and ``checkbox``, all of which should be within ``form`` tag. For input tags of the type radio and checkbox, they should be within a label tag in order to provide text to the options they are referring to. If I understood correct, the attribute ``name`` should be given to these input types. Since radio buttons work like on/off, you can only have one option, thus, it should be from "the same group". I have redone the example but using dogs, since I am a dog person.
 
-**Link to work:** <a href="https://bit.ly/2CWoGGX">HTML tutorial redone using dogs.</a>
+**Link to work:** <a id="link-D1" href="https://bit.ly/2VBNLxr">HTML tutorial redone using dogs.</a>
 
 ### Day 2: June 30, 2020
 
@@ -62,4 +62,6 @@ P.s.: I also learned that we can import different fonts using <a href="https://f
     <li>the self closing tag 'hr' which draws a horizontal line across the element. Used, for instance, to separate topics.
 </ul>
 
-There are several other properties that were studied in this part of the course. I think that the main goal, at least for now, is to know that they exist so when I want to apply some of these effects I know what to look for.
+There are several other properties that were studied in this part of the course. I think that the main goal, at least for now, is to know that they exist so when I want to apply some of these effects I know what to look for. I try to put some of the things I learned into the ``DogPhotoApp`` from <a href="#link-D1">day 1</a>.
+
+**Link to work:** <a href="https://bit.ly/2AlYoNf">DogPhotoApp with some CSS styling.</a>

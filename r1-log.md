@@ -9,3 +9,6 @@ Started the <a href="https://www.freecodecamp.org/learn" target="_blank" alt="Li
 
 ### R1D2
 I concluded the ``Basic CSS`` tutorial in the <a href="https://www.freecodecamp.org/learn" target="_blank" alt="Link to FreeCodeCamp.">Responsive Web Design Certification (300 hours)</a>. Details about this day can be found in [log.md](log.md) file.
+
+### R1D3
+I continued the <a href="https://www.freecodecamp.org/learn" target="_blank" alt="Link to FreeCodeCamp.">Responsive Web Design Certification (300 hours)</a>. Learn a little more about what CSS properties can do and applied some of these properties into the raw HTML of [D1 project](projects/D1). The styled HTML can be found into the [D3](projects/D3) folder.

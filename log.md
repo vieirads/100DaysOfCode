@@ -65,3 +65,11 @@ P.s.: I also learned that we can import different fonts using <a href="https://f
 There are several other properties that were studied in this part of the course. I think that the main goal, at least for now, is to know that they exist so when I want to apply some of these effects I know what to look for. I try to put some of the things I learned into the ``DogPhotoApp`` from <a href="#link-D1">day 1</a>.
 
 **Link to work:** <a href="https://bit.ly/2AlYoNf">DogPhotoApp with some CSS styling.</a>
+
+### Day 4: July 02, 2020
+
+**Today's Progress:** I continued the <a href="https://www.freecodecamp.org/learn" target="_blank" alt="Link to FreeCodeCamp.">Responsive Web Design Certification (300 hours)</a>. I am now at the 50% of ``Applied Visual Design``. I also applied what I learn in other project I am doing in ``Jupyter Notebook``. I used ``ol`` and ``li`` tags to make a list using sub-item numbering. Of course I had to look up on StakOverflow, but I understand the code behind it. I call this progress.
+
+**Thoughts:** I have learn a little bit more about text styling. I was amazed by the simplicity of using ``hover``. Still struggling to understand the value ``absolute`` from the variable ``position``. Started to learn the basics about color theory, already have learned about the color wheel and how using hex made it very clear how colors can cancel each other.
+
+**Link to work:** If you are interested, you can see the project I am working on in my GitHub repository: <a href="https://bit.ly/3inqVTL" alt="Curso-de-extensao" target="_blank">Curso-de-extensao</a>. The repository is entire in Brazilian Portuguese, because it is for online course I am going to teach.

@@ -12,3 +12,6 @@ I concluded the ``Basic CSS`` tutorial in the <a href="https://www.freecodecamp.
 
 ### R1D3
 I continued the <a href="https://www.freecodecamp.org/learn" target="_blank" alt="Link to FreeCodeCamp.">Responsive Web Design Certification (300 hours)</a>. Learn a little more about what CSS properties can do and applied some of these properties into the raw HTML of [D1 project](projects/D1). The styled HTML can be found into the [D3](projects/D3) folder.
+
+### R1D4
+I continued the <a href="https://www.freecodecamp.org/learn" target="_blank" alt="Link to FreeCodeCamp.">Responsive Web Design Certification (300 hours)</a>. I have learn a little bit more about text styling. I was amazed by the simplicity of using ``hover``. Still struggling to understand the value ``absolute`` from the variable ``position``. Started to learn the basics about color theory, already have learned about the color wheel and how using hex made it very clear how colors can cancel each other.

@@ -15,3 +15,6 @@ I continued the <a href="https://www.freecodecamp.org/learn" target="_blank" alt
 
 ### R1D4
 I continued the <a href="https://www.freecodecamp.org/learn" target="_blank" alt="Link to FreeCodeCamp.">Responsive Web Design Certification (300 hours)</a>. I have learn a little bit more about text styling. I was amazed by the simplicity of using ``hover``. Still struggling to understand the value ``absolute`` from the variable ``position``. Started to learn the basics about color theory, already have learned about the color wheel and how using hex made it very clear how colors can cancel each other.
+
+### R1D5
+I continued the <a href="https://www.freecodecamp.org/learn" target="_blank" alt="Link to FreeCodeCamp.">Responsive Web Design Certification (300 hours)</a>. Kept learning about color theory applying it to simple divs using CSS stylesheet. I also learn how to import a custom CSS into my Jupyter Notebook, answering a question in [Kaggle](https://www.kaggle.com/) on how to do this. I was mistaken by a bot since I created a profile just to answer this.

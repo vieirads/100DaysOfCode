@@ -18,3 +18,6 @@ I continued the <a href="https://www.freecodecamp.org/learn" target="_blank" alt
 
 ### R1D5
 I continued the <a href="https://www.freecodecamp.org/learn" target="_blank" alt="Link to FreeCodeCamp.">Responsive Web Design Certification (300 hours)</a>. Kept learning about color theory applying it to simple divs using CSS stylesheet. I also learn how to import a custom CSS into my Jupyter Notebook, answering a question in [Kaggle](https://www.kaggle.com/) on how to do this. I was mistaken by a bot since I created a profile just to answer this.
+
+### R1D6
+linear-gradient() function is simply amazing and easy to use. I always thought that a feature like this would take several lines of code to be accomplished. Still have to properly learn the pseudo properties ``::before`` and ``::after``. 

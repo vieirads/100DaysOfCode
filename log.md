@@ -84,8 +84,16 @@ There are several other properties that were studied in this part of the course.
 
 ### Day 6: July 04, 2020
 
-**Today's Progress:** I continued the <a href="https://www.freecodecamp.org/learn" target="_blank" alt="Link to FreeCodeCamp.">Responsive Web Design Certification (300 hours)</a>. Finally learn how to make color gradients. It was much easier than I thought it would be. linear-gradient() function is very easy to use. repeating-linear-gradient() is also pretty easy to use. Saw ``::before`` and ``::after`` pseudo properties and ``@keyframes``.
+**Today's Progress:** I continued the <a href="https://www.freecodecamp.org/learn" target="_blank" alt="Link to FreeCodeCamp.">Responsive Web Design Certification (300 hours)</a>. Finally learn how to make color gradients. It was much easier than I thought it would be. linear-gradient() function is very easy to use. repeating-linear-gradient() is also pretty easy to use. Saw ``:before`` and ``:after`` pseudo properties and ``@keyframes``.
 
 **Thoughts:** I still have to study more about the pseudo properties and keyframes. 
 
 **Link to work:** no link for this part.
+
+### Day 7: July 05, 2020
+
+**Today's Progress:** I continued the <a href="https://www.freecodecamp.org/learn" target="_blank" alt="Link to FreeCodeCamp.">Responsive Web Design Certification (300 hours)</a>. Learn a little about animations using ``@keyframes``.
+
+**Thoughts:** Some concepts are kind of clear to me. However, I am having a little difficult with aspects of positioning elements. Still have to learn more about about ``:before`` and ``:after`` because I did not understand it. I made a ``Deadpool's face`` with animated eyes to practice some of the things I learned.
+
+**Link to work:** Link to <a href="" alt="Link to Deadpool's face.">``Deadpool's face``</a>.

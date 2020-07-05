@@ -1,0 +1,142 @@
+<style>
+    body {
+        background-color: #FFFFFF;
+    }
+    #back {
+        width: 300px;
+        height: 300px;
+        position: relative;
+        background-color: #FF0000;
+        border-radius: 50%;
+        border-color: #000000;
+        border-width: 10px;
+    }
+
+    #left-side {
+        width: 120px;
+        height: 260px;
+        position: absolute;
+        top: 20px;
+        bottom: 20px;
+        left: 20px;
+        right: 10px;
+        background-color: #000000;
+        border-radius: 100% / 50%;
+        border-top-right-radius: 0;
+        border-bottom-right-radius: 0;
+    }
+
+    #right-side {
+        width: 120px;
+        height: 260px;
+        position: absolute;
+        top: 20px;
+        bottom: 20px;
+        left: 160px;
+        right: 20px;
+        background-color: #000000;
+        border-radius: 100% / 50%;
+        border-top-left-radius: 0;
+        border-bottom-left-radius: 0;
+    }
+
+    #left-eye {
+        width: 20px;
+        height: 20px;
+        position: absolute;
+        top: 40%;
+        left: 32%;
+        border-radius: 50%;
+        background-color: #FFFFFF;
+        animation-name: movelefteye;
+        animation-duration: 5s;
+        animation-iteration-count: infinite;
+    }
+
+    @keyframes movelefteye {
+        50% {
+            /* This is to blink */
+            width: 30px;
+            height: 15px;
+            background-color: transparent;
+            border-radius: 50%;
+            box-shadow: 0px -5px 0px 0px #FFFFFF;
+            /* transform: rotate(180deg); */
+        }
+        100% {
+            /* This is for mad eyes*/   
+            width: 30px;
+            height: 15px;     
+            border-radius: 50% / 100%;
+            border-top-left-radius: 0;
+            border-top-right-radius: 0;
+            background-color: #FFFFFF;
+            transform: rotate(30deg);
+        }
+    }
+
+    #right-eye {
+        width: 20px;
+        height: 20px;
+        position: absolute;
+        top: 40%;
+        right: 32%;
+        border-radius: 50%;
+        background-color: #FFFFFF;
+        animation-name: moverighteye;
+        animation-duration: 5s;
+        animation-iteration-count: infinite;
+    }
+
+    @keyframes moverighteye {
+        50% {
+            /* This is to blink */
+            width: 30px;
+            height: 15px;
+            background-color: transparent;
+            border-radius: 50%;
+            box-shadow: 0px -5px 0px 0px #FFFFFF;
+            /* transform: rotate(180deg); */
+        }
+        100% {
+            /* This is for mad eyes*/   
+            width: 30px;
+            height: 15px;     
+            border-radius: 50% / 100%;
+            border-top-left-radius: 0;
+            border-top-right-radius: 0;
+            background-color: #FFFFFF;
+            transform: rotate(-30deg);
+        }
+    }
+
+    /* #right-side:hover + #right-eye {
+        width: 30px;
+        height: 15px;
+        position: absolute;
+        top: 40%;
+        right: 32%; */
+        /* This is for mad eyes*/        
+        /* border-radius: 50% / 100%;
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
+        background-color: #FFFFFF;
+        transform: rotate(-30deg); */
+        /* This is to blink */
+        /* background-color: transparent;
+        border-radius: 50%;
+        box-shadow: 0px 3px 0px 0px #FFFFFF;
+        transform: rotate(180deg);
+    } */
+</style>
+
+<html>
+    <body>
+<div id='back'>
+    <div id='left-side'></div>
+    <div id='left-eye'></div>
+    <div id='right-side'></div>
+    <div id='right-eye'></div>
+</div>
+</body>
+</html>

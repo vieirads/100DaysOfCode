@@ -21,3 +21,6 @@ I continued the <a href="https://www.freecodecamp.org/learn" target="_blank" alt
 
 ### R1D6
 linear-gradient() function is simply amazing and easy to use. I always thought that a feature like this would take several lines of code to be accomplished. Still have to properly learn the pseudo properties ``::before`` and ``::after``. 
+
+### R1D7
+Learn a little about animations. Simple properties like ``animation-name``, ``animation-duration``, and ``animation-fill-mode``. The ``animation-name`` is passed to the ``@keyframes`` for the commands regarding the animation take place in that particular element. The ``animation-duration`` is quite obvious what it is and the ``animation-fill-mode`` dictates the final state of the object after the animation has finished. ``animation-iteration-count`` is also quite nice and produce a nice effect.

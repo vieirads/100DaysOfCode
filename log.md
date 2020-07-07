@@ -96,4 +96,12 @@ There are several other properties that were studied in this part of the course.
 
 **Thoughts:** Some concepts are kind of clear to me. However, I am having a little difficult with aspects of positioning elements. Still have to learn more about about ``:before`` and ``:after`` because I did not understand it. I made a ``Deadpool's face`` with animated eyes to practice some of the things I learned.
 
-**Link to work:** Link to <a href="" alt="Link to Deadpool's face.">``Deadpool's face``</a>.
+**Link to work:** Link to <a href="https://bit.ly/2ZI33l9" alt="Link to Deadpool's face.">``Deadpool's face``</a>.
+
+### Day 8: July 06, 2020
+
+**Today's Progress:** Went through some of the items in ``Applied Accessibility`` section in **freeCodeCamp**. Mostly worked on my classes notebooks today.
+
+**Thoughts:**  I have never thought about how text elements should be clear, not just to make your site/idea direct and simple, but also to provide accessibility. Guess I am learning more than how to code doing this chalenge.
+
+**Link to work:** no link for this part.

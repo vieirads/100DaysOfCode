@@ -24,3 +24,6 @@ linear-gradient() function is simply amazing and easy to use. I always thought t
 
 ### R1D7
 Learn a little about animations. Simple properties like ``animation-name``, ``animation-duration``, and ``animation-fill-mode``. The ``animation-name`` is passed to the ``@keyframes`` for the commands regarding the animation take place in that particular element. The ``animation-duration`` is quite obvious what it is and the ``animation-fill-mode`` dictates the final state of the object after the animation has finished. ``animation-iteration-count`` is also quite nice and produce a nice effect.
+
+### R1D8
+Went through some of the items in ``Applied Accessibility`` section in **freeCodeCamp**. I have never thought about how text elements should be clear, not just to make your site/idea direct and simple, but also to provide accessibility. Guess I am learning more than how to code doing this chalenge.

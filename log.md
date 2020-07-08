@@ -105,3 +105,11 @@ There are several other properties that were studied in this part of the course.
 **Thoughts:**  I have never thought about how text elements should be clear, not just to make your site/idea direct and simple, but also to provide accessibility. Guess I am learning more than how to code doing this chalenge.
 
 **Link to work:** no link for this part.
+
+### Day 9: July 07, 2020
+
+**Today's Progress:** Continued the ``Applied Accessibility`` section in **freeCodeCamp**. Mostly worked on my classes notebooks today and fixed the kernel of my ubuntu to support my wacom tablet.
+
+**Thoughts:**  Still learn how little details, such as group elements can help people to better understand what is going on in your page. 
+
+**Link to work:** no link for this part.

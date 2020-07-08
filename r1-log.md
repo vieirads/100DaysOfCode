@@ -27,3 +27,6 @@ Learn a little about animations. Simple properties like ``animation-name``, ``an
 
 ### R1D8
 Went through some of the items in ``Applied Accessibility`` section in **freeCodeCamp**. I have never thought about how text elements should be clear, not just to make your site/idea direct and simple, but also to provide accessibility. Guess I am learning more than how to code doing this chalenge.
+
+### R1D9
+Still studying the topics of ``Applied Accessibility`` in **freeCodeCamp**. Learned about figures, fieldset and how they can put elements together. This helps interpret the things that belong together, like a image and its caption, or some radio buttons that belong to a certain category. 

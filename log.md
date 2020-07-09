@@ -113,3 +113,11 @@ There are several other properties that were studied in this part of the course.
 **Thoughts:**  Still learn how little details, such as group elements can help people to better understand what is going on in your page. 
 
 **Link to work:** no link for this part.
+
+### Day 10: July 08, 2020
+
+**Today's Progress:** Finished the ``Applied Accessibility`` section in **freeCodeCamp**. Finally learn how to make elements navigable by your keyboard: using ``accesskey`` to provide a key (e.g. "c") or ``tabindex`` using integers. 
+
+**Thoughts:** I have to put in practice some of the things I am learning so I won't forget them. The concepts are really nice and simple to produce such effects.
+
+**Link to work:** no link for this part.

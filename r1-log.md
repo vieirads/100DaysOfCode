@@ -30,3 +30,6 @@ Went through some of the items in ``Applied Accessibility`` section in **freeCod
 
 ### R1D9
 Still studying the topics of ``Applied Accessibility`` in **freeCodeCamp**. Learned about figures, fieldset and how they can put elements together. This helps interpret the things that belong together, like a image and its caption, or some radio buttons that belong to a certain category. 
+
+### R1D10
+Finished the ``Applied Accessibility`` section in **freeCodeCamp**. Finally learn how to make elements navigable by your keyboard: using ``accesskey`` to provide a key (e.g. "c") or ``tabindex`` using integers. 

@@ -121,3 +121,11 @@ There are several other properties that were studied in this part of the course.
 **Thoughts:** I have to put in practice some of the things I am learning so I won't forget them. The concepts are really nice and simple to produce such effects.
 
 **Link to work:** no link for this part.
+
+### Day 11: July 09, 2020
+
+**Today's Progress:** I was studying ``Responsive Web Design Principles`` at **freeCodeCamp**. Manage to learn how to properly resize an image according to the device being used by using the ``@media`` to pass conditions before applying a CSS style.
+
+**Thoughts:** This lesson is pretty cool and helped me to fix an image display in other project. However, I couldn't go through it because my code doesn't get validate on the third Challenge. 
+
+**Link to work:** no link for this part.

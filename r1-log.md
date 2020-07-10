@@ -33,3 +33,6 @@ Still studying the topics of ``Applied Accessibility`` in **freeCodeCamp**. Lear
 
 ### R1D10
 Finished the ``Applied Accessibility`` section in **freeCodeCamp**. Finally learn how to make elements navigable by your keyboard: using ``accesskey`` to provide a key (e.g. "c") or ``tabindex`` using integers. 
+
+### R1D11
+I was studying ``Responsive Web Design Principles`` at **freeCodeCamp**. Manage to learn how to properly resize an image according to the device being used by using the ``@media`` to pass conditions before applying a CSS style. This lesson is pretty cool and helped me to fix an image display in other project. However, I couldn't go through it because my code doesn't get validate on the third Challenge. 

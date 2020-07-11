@@ -36,3 +36,6 @@ Finished the ``Applied Accessibility`` section in **freeCodeCamp**. Finally lear
 
 ### R1D11
 I was studying ``Responsive Web Design Principles`` at **freeCodeCamp**. Manage to learn how to properly resize an image according to the device being used by using the ``@media`` to pass conditions before applying a CSS style. This lesson is pretty cool and helped me to fix an image display in other project. However, I couldn't go through it because my code doesn't get validate on the third Challenge. 
+
+### R1D12
+Today I worked on some elements of my introductory python course's page. I applied some CSS to make display figures in a nicer way and also modified the mark tag, adding an animation using ``@keyframes`` that make the background change colors when you hover. 

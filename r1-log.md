@@ -39,3 +39,8 @@ I was studying ``Responsive Web Design Principles`` at **freeCodeCamp**. Manage 
 
 ### R1D12
 Today I worked on some elements of my introductory python course's page. I applied some CSS to make display figures in a nicer way and also modified the mark tag, adding an animation using ``@keyframes`` that make the background change colors when you hover. 
+
+### R1D13
+ Fixed the problem I was having with the challenge in "Responsive Web Design Principles" by using Firefox. Also went through the flexbox section of **freeCodeCamp**. Despite the concept being simple and straightforward, I still have some practice to do. 
+
+It is pretty cool and simple how the elements can change according to simple commands, such as ``flex-shrink`` and ``flex-grow``. For the elements respond to such properties, they should be child of a tag with a CSS property ``display: flex``. You can also change the orientation of the elements (vertical or horizontal) and tell how they should be placed.

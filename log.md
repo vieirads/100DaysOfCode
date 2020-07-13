@@ -145,3 +145,11 @@ There are several other properties that were studied in this part of the course.
 **Thoughts:** It is pretty cool and simple how the elements can change according to simple commands, such as ``flex-shrink`` and ``flex-grow``. For the elements respond to such properties, they should be child of a tag with a CSS property ``display: flex``. You can also change the orientation of the elements (vertical or horizontal) and tell how they should be placed.
 
 **Link to work:** no link for this part.
+
+### Day 14: July 12, 2020
+
+**Today's Progress:** Today I started the CSS Grids challenges at **freCodeCamp**. So far it is going pretty smooth. You have to set up the parent tag with ``display: grid;`` and then you can use its properties, such as, ``grid-template-columns`` and ``grid-template-rows``. For the child tags you have properties like ``grid-column`` and ``grid-row``. These properties are responsible to span the element from the n-th line to the (m-1)-th. For instance, ``grid-column: 3/5;`` will span the child element from column 3 to 4. You can also align the items by using the ``justify-self`` and ``align-self`` for columns and rows, respectivelly.
+
+**Thoughts:** This lesson is nice. From it I can learn how to properly create and place items within a parent tag with ease.
+
+**Link to work:** no link for this part.

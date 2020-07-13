@@ -47,3 +47,6 @@ It is pretty cool and simple how the elements can change according to simple com
 
 ### R1D14
 Today I started the CSS Grids challenges at **freCodeCamp**. So far it is going pretty smooth. You have to set up the parent tag with ``display: grid;`` and then you can use its properties, such as, ``grid-template-columns`` and ``grid-template-rows``. For the child tags you have properties like ``grid-column`` and ``grid-row``. These properties are responsible to span the element from the n-th line to the (m-1)-th. For instance, ``grid-column: 3/5;`` will span the child element from column 3 to 4. You can also align the items by using the ``justify-self`` and ``align-self`` for columns and rows, respectivelly.
+
+### R1D15
+Finished the CSS Grids challenges. Learned more about how we can align all the items horizontally or vertically within the grid by using ``justify-items`` and ``align-items``, respectivelly. Also learned how you can group items within an area that you create within the grid. To accomplish this we can use ``grid-area`` and create areas using whatever name you want, considering the numbers of columns and rows of your grid. Learned how you can resize the elements within the container to make them look good. The details about this day can be gound in [log.md](log.md).

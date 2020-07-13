@@ -153,3 +153,39 @@ There are several other properties that were studied in this part of the course.
 **Thoughts:** This lesson is nice. From it I can learn how to properly create and place items within a parent tag with ease.
 
 **Link to work:** no link for this part.
+
+### Day 15: July 13, 2020
+
+**Today's Progress:** Finished the CSS Grids challenges. Learned more about how we can align all the items horizontally or vertically within the grid by using ``justify-items`` and ``align-items``, respectivelly. Also learned how you can group items within an area that you create within the grid. To accomplish this we can use ``grid-area`` and create areas using whatever name you want, considering the numbers of columns and rows of your grid. For instance, if you have a grid 3x3, you can separate areas like this:
+
+```CSS
+    grid-area: 
+    "header header header"
+    "advert content content"
+    "footer footer footer";
+```
+
+Then you use the names so your child element can be place where the assigned name appears.
+
+One can also specify this property within an item withouth create a ``grid-area`` within the container (parend tag). To do this, you specify the index of the columns and rows where the item should start and end. For instance, the ``class item``, for it to be placed spanning the columns 2 and 3 and rows 4 and 5, we should write
+
+```CSS
+    .item {
+        grid-area: 2/4/3/5;
+    }
+```
+
+Since you can create grids with any number of columns and rows, it is useful to use the functino ``repeat(n, d)``, where ``n`` is the number of times you want to repeat the ``d`` comand, which can be a measure of the size of the column/row. An example of the usage of this function:
+
+```CSS
+    grid-template-column: repeat(2, 1fr 50px);
+```
+
+which creates ``grit-template-column: 1fr 50px 1fr 50px;``. Another useful function is ``minmax(vmin, vmax)``, where ``vmin`` and ``vmax`` are the minimum and maximum values. We can combine the last two functions two produce a nice effect. Using put the option ``auto-fill`` on the argument ``n`` of the ``repeat`` function. This will fill automatically the spaces considering the items. When combined with the ``minmax`` function, when we reescale the window, the elements will have a minumum value ``vmin``, if they shrink more than this, another column/row is created to accomodate the item. When you stretch your window, the items can only have ``vmax`` as their maximum size. However, this can left the container (parent tag) with empty columns, since the maximum size of items is ``vmax``. If you do not want empty space in your container, you can use ``auto-fit``, which will adjust the items sizes to fit the container's size.
+
+When we are resing the window, we can change how the grid is displayed to a better visualization of the elements within the container. We can use ``@media('contidion')`` and dictate the new rules. The 'condition' can be something like ``min-width: 300px;``, where if the width of the window reaches ``299px`` or less, the new ruler are implemented.
+
+**Thoughts:** Learned a lot about grids. In my opinion, the use of this property is going to make development of a page much easir, specieally if you want to resize elements properly. 
+
+**Link to work:**no link for this part.
+]

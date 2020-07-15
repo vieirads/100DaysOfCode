@@ -50,3 +50,6 @@ Today I started the CSS Grids challenges at **freCodeCamp**. So far it is going 
 
 ### R1D15
 Finished the CSS Grids challenges. Learned more about how we can align all the items horizontally or vertically within the grid by using ``justify-items`` and ``align-items``, respectivelly. Also learned how you can group items within an area that you create within the grid. To accomplish this we can use ``grid-area`` and create areas using whatever name you want, considering the numbers of columns and rows of your grid. Learned how you can resize the elements within the container to make them look good. The details about this day can be gound in [log.md](log.md).
+
+### R1D16
+Applied some CSS style to my Jupyter Notebooks to highligh ``exercices`` and ``answers`` cells. Started the project at **freeCodeCamp** where I have to design a ``Tribute Page``. I also download an app on my phone to practice whenever I have to kill time.

@@ -187,5 +187,12 @@ When we are resing the window, we can change how the grid is displayed to a bett
 
 **Thoughts:** Learned a lot about grids. In my opinion, the use of this property is going to make development of a page much easir, specieally if you want to resize elements properly. 
 
-**Link to work:**no link for this part.
-]
+**Link to work:** no link for this part.
+
+### Day 16: July 14, 2020
+
+**Today's Progress:** Applied some CSS style to my Jupyter Notebooks to highligh ``exercices`` and ``answers`` cells. Started the project at **freeCodeCamp** where I have to design a ``Tribute Page``. I also download an app on my phone to practice whenever I have to kill time.
+
+**Thoughts:** I am really liking how I can style stuff using CSS.
+
+**Link to work:** no link for this part.

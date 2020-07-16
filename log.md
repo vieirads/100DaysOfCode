@@ -196,3 +196,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** I am really liking how I can style stuff using CSS.
 
 **Link to work:** no link for this part.
+
+### Day 17: July 15, 2020
+
+**Today's Progress:** I wrote a bit on my <a href="https://bit.ly/2OGHooJ" target="_blank">Tribute page</a> as a project for the freeCodeCamp. I hope I get this done by tomorrow. I just have to put some text and some style ideas I have. 
+
+**Thoughts:** I like the part where I can finally edit my CSS and make the page looks nice and smooth.
+
+**Link to work:** <a href="https://bit.ly/2OGHooJ" target="_blank">Tribute page</a> on codepen.

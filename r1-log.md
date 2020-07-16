@@ -53,3 +53,6 @@ Finished the CSS Grids challenges. Learned more about how we can align all the i
 
 ### R1D16
 Applied some CSS style to my Jupyter Notebooks to highligh ``exercices`` and ``answers`` cells. Started the project at **freeCodeCamp** where I have to design a ``Tribute Page``. I also download an app on my phone to practice whenever I have to kill time.
+
+### R1D17
+I wrote a bit on my <a href="https://bit.ly/2OGHooJ" target="_blank">Tribute page</a> as a project for the freeCodeCamp. I hope I get this done by tomorrow. I just have to put some text and some style ideas I have. 

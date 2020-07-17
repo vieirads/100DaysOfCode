@@ -204,3 +204,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** I like the part where I can finally edit my CSS and make the page looks nice and smooth.
 
 **Link to work:** <a href="https://bit.ly/2OGHooJ" target="_blank">Tribute page</a> on codepen.
+
+### Day 18: July 16, 2020
+
+**Today's Progress:** Put some CSS style on my <a href="https://bit.ly/2OGHooJ" target="_blank">Tribute page</a> (freeCodeCamp project). Trying to implement some custom styling into another page together with a friend. Trained some CSS grid and @media to adjust elements on the page based on a width condition.
+
+**Thoughts:** I manage to do some of the things that I wanted to do. However, I still have much to learn. One step at the time.
+
+**Link to work:** <a href="https://bit.ly/2OGHooJ" target="_blank">Tribute page</a> on codepen (now with some styling :)).

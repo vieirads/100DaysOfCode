@@ -56,3 +56,6 @@ Applied some CSS style to my Jupyter Notebooks to highligh ``exercices`` and ``a
 
 ### R1D17
 I wrote a bit on my <a href="https://bit.ly/2OGHooJ" target="_blank">Tribute page</a> as a project for the freeCodeCamp. I hope I get this done by tomorrow. I just have to put some text and some style ideas I have. 
+
+### R1D18
+Put some CSS style on my <a href="https://bit.ly/2OGHooJ" target="_blank">Tribute page</a> (freeCodeCamp project). Trying to implement some custom styling into another page together with a friend.

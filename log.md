@@ -212,3 +212,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** I manage to do some of the things that I wanted to do. However, I still have much to learn. One step at the time.
 
 **Link to work:** <a href="https://bit.ly/2OGHooJ" target="_blank">Tribute page</a> on codepen (now with some styling :)).
+
+### Day 19: July 17, 2020
+
+**Today's Progress:** Worked a bit with div tags and how to make children fit within their parent's limits.
+
+**Thoughts:** It was hard at first, but I think I am starting to understand how some properties work.
+
+**Link to work:** no link for this part.

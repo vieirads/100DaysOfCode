@@ -59,3 +59,6 @@ I wrote a bit on my <a href="https://bit.ly/2OGHooJ" target="_blank">Tribute pag
 
 ### R1D18
 Put some CSS style on my <a href="https://bit.ly/2OGHooJ" target="_blank">Tribute page</a> (freeCodeCamp project). Trying to implement some custom styling into another page together with a friend.
+
+### R1D19
+Worked a bit with div tags and how to make children fit within their parent's limits.

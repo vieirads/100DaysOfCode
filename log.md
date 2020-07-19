@@ -220,3 +220,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** It was hard at first, but I think I am starting to understand how some properties work.
 
 **Link to work:** no link for this part.
+
+### Day 20: July 18, 2020
+
+**Today's Progress:** Create a Survey form as the second project of Responsive Web Design from **freeCodeCamp**. Worked on my HTML and CSS beginner skills.
+
+**Thoughts:** This was really fun to make. 
+
+**Link to work:** https://bit.ly/2CPtNsa

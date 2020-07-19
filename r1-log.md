@@ -62,3 +62,6 @@ Put some CSS style on my <a href="https://bit.ly/2OGHooJ" target="_blank">Tribut
 
 ### R1D19
 Worked a bit with div tags and how to make children fit within their parent's limits.
+
+### R1D20
+Create a Survey form as the second project of Responsive Web Design from **freeCodeCamp**. Worked on my HTML and CSS beginner skills.

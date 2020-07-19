@@ -228,3 +228,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** This was really fun to make. 
 
 **Link to work:** https://bit.ly/2CPtNsa
+
+### Day 21: July 19, 2020
+
+**Today's Progress:** Finally updated <a href="https://vieirads.github.io">GitHub page</a> with what I learned of `HTML` and `CSS` so far. Still have a lot of content to add, but it is something already.
+
+**Thoughts:** Feeling good about what I can do using this tools.
+
+**Link to work:** https://vieirads.github.io

@@ -65,3 +65,6 @@ Worked a bit with div tags and how to make children fit within their parent's li
 
 ### R1D20
 Create a Survey form as the second project of Responsive Web Design from **freeCodeCamp**. Worked on my HTML and CSS beginner skills.
+
+### R1D21
+Finally updated <a href="https://vieirads.github.io">GitHub page</a> with what I learned of `HTML` and `CSS` so far. Still have a lot of content to add, but it is something already.

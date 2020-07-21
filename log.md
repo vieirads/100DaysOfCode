@@ -236,3 +236,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** Feeling good about what I can do using this tools.
 
 **Link to work:** https://vieirads.github.io
+
+### Day 22: July 20, 2020
+
+**Today's Progress:** Kept working on my <a href="https://vieirads.github.io">GitHub page</a>. Tried to implement `grid` and `flexbox` into some components. I also tried to use `@media` queries in order to make the size of the elements and fonts responsive.
+
+**Thoughts:** I tried to do everything I could without google. Before looking for a specific answer, I tried to read the documentation again. Most of the time it worked!
+
+**Link to work:** https://vieirads.github.io

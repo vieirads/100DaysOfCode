@@ -68,3 +68,6 @@ Create a Survey form as the second project of Responsive Web Design from **freeC
 
 ### R1D21
 Finally updated <a href="https://vieirads.github.io">GitHub page</a> with what I learned of `HTML` and `CSS` so far. Still have a lot of content to add, but it is something already.
+
+### R1D22
+Kept working on my <a href="https://vieirads.github.io">GitHub page</a>. Tried to implement `grid` and `flexbox` into some components. I also tried to use `@media` queries in order to make the size of the elements and fonts responsive.

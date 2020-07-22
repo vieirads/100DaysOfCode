@@ -244,3 +244,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** I tried to do everything I could without google. Before looking for a specific answer, I tried to read the documentation again. Most of the time it worked!
 
 **Link to work:** https://vieirads.github.io
+
+### Day 23: July 21, 2020
+
+**Today's Progress:** Study and reproduced the Portifolio example by **freeCodeCamp**. I wrote the CSS trying to understand what each property would do. It was a good exercise.
+
+**Thoughts:** I am feeling good about what I am learning. I am remembering some of the study that I saw during the course and getting a chance to better understand them.
+
+**Link to work:** https://codepen.io/dennersvieira/pen/QWyJodO

@@ -71,3 +71,6 @@ Finally updated <a href="https://vieirads.github.io">GitHub page</a> with what I
 
 ### R1D22
 Kept working on my <a href="https://vieirads.github.io">GitHub page</a>. Tried to implement `grid` and `flexbox` into some components. I also tried to use `@media` queries in order to make the size of the elements and fonts responsive.
+
+### R1D23
+Study and reproduced the Portifolio example by **freeCodeCamp**. I wrote the CSS trying to understand what each property would do. It was a good exercise.

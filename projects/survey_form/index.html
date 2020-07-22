@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Survey form</title>
+    <link
+      rel="stylesheet"
+      href="style.css"
+      type="text/css"
+      media="all"
+    />
+  </head>
+
+  <body>
+    <div class="container">
+      <header class="header">
+        <h1 id="title" class="text-center text-shadow">General Physics I</h1>
+        <p id="description" class="description text-center">Thank you for your time. This will help to improve the course :)
+        </p>
+      </header>
+      <form id="survey-form">
+        <div class="form-group">
+          <label id="name-label" for="name">Name</label>
+          <input
+            type="text"
+            name="name"
+            id="name"
+            class="form-control"
+            placeholder="Enter your name"
+            required
+          />
+        </div>
+        <div class="form-group">
+          <label id="email" for="email">E-mail</label>
+          <input
+          type="email"
+          name="email"
+          id="email"
+          class="form-control"
+          placeholder="Enter your e-mail"
+          required
+          />
+        </div>
+        <div class="form-group">
+          <label id="number-label" for="number">Age<span class="clue">(optional)</span></label>
+          <input 
+            type="number"
+            name="age"
+            id="number"
+            min="10"
+            max="99"
+            class="form-control"
+            placeholder="Age"
+          />
+        </div>
+        <div class="form-group">
+          <p>From which class are you from?</p>
+          <select id="dropdown" name="class" class="form-control" required>
+            <option disable select value>Select your class</option>
+    <!--         <option disable select value>----------------</option> -->
+            <option value="Civil Engineering">Civil Engineering</option>
+            <option value="Chemical Engineering">Chemical Engineering</option>
+            <option value="Chemistry">Chemistry</option>
+            <option value="Electrical Engineering">Electrical Engineering</option>
+            <option value="Mechanical Engineering">Mechanical Engineering</option>
+            <option value="Other">Other</option>
+          </select>
+        </div>
+          
+        <div class="form-group">
+            <p>Would you recommend me as a Professor for this course?</p>
+            <label>
+              <input
+                name="user-recommend"
+                value="definetely"
+                type="radio"
+                class="input-radio"
+                checked
+              />Definetely</label
+            >
+            <label>
+              <input
+                name="user-recommend"
+                value="maybe"
+                type="radio"
+                class="input-radio"
+              />Maybe</label
+            >
+            <label>
+              <input
+                name="user-recommend"
+                value="not-sure"
+                type="radio"
+                class="input-radio"
+              />Not sure</label
+            >
+            <label>
+              <input
+                name="user-recommend"
+                value="No"
+                type="radio"
+                class="input-radio"
+              />No</label
+            >
+        </div>
+        
+        <div class="form-group">
+          <p>What do you like about my classes?<span class="clue">(Check all that apply)</span></p>
+          <label>
+            <input
+              name="prefer"
+              value="theory"
+              type="checkbox"
+              class="input-checkbox"
+            />Theoretical explanation</label>      
+          <label>
+            <input
+              name="prefer"
+              value="problem-solving"
+              type="checkbox"
+              class="input-checkbox"
+            />Step-by-step problem solving</label>      
+          <label>
+            <input
+              name="prefer"
+              value="test-exercices"
+              type="checkbox"
+              class="input-checkbox"
+            />Test exercices</label>
+          <label>
+            <input
+              name="prefer"
+              value="time"
+              type="checkbox"
+              class="input-checkbox"
+            />Punctuality</label
+          >
+          <label>
+            <input
+              name="prefer"
+              value="doubts"
+              type="checkbox"
+              class="input-checkbox"
+            />Always try to clarify the doubts</label
+          >
+        </div>
+        
+        <div class="form-group">
+          <p>What content would you like to be improved?<span class="clue">(Check all that apply)</span></p>
+          <label>
+            <input
+              name="improved"
+              type="checkbox"
+              value="physical-units"
+              class="input-checkbox"
+            />Physical units</label
+          >
+          <label>
+            <input
+              name="improved"
+              type="checkbox"
+              value="vectors"
+              class="input-checkbox"
+            />Vectors</label
+          >
+          <label>
+            <input
+              name="improved"
+              type="checkbox"
+              value="kinematics"
+              class="input-checkbox"
+            />Kinematics</label
+          >
+          <label>
+            <input
+              name="improved"
+              type="checkbox"
+              value="newtons-laws"
+              class="input-checkbox"
+            />Newton's laws</label
+          >
+          <label>
+            <input
+              name="improved"
+              type="checkbox"
+              value="work-energy"
+              class="input-checkbox"
+            />Work-Energy theorem</label
+          >
+          <label>
+            <input
+              name="improved"
+              type="checkbox"
+              value="potential-energy"
+              class="input-checkbox"
+            />Potential energy</label
+          >
+          <label>
+            <input
+              name="improved"
+              type="checkbox"
+              value="linear-momentum"
+              class="input-checkbox"
+            />Linear momentum</label
+          >
+          <label>
+            <input
+              name="improved"
+              type="checkbox"
+              value="Colisions"
+              class="input-checkbox"
+            />Colisions</label
+          >
+          <label>
+            <input
+              name="improved"
+              type="checkbox"
+              value="impulse-momentum"
+              class="input-checkbox"
+            />Impulse-Momentum theorem</label
+          >
+          <label>
+            <input
+              name="improved"
+              type="checkbox"
+              value="circular-kinematics"
+              class="input-checkbox"
+            />Circular kinematics</label
+          >
+          <label>
+            <input
+              name="improved"
+              type="checkbox"
+              value="torque"
+              class="input-checkbox"
+            />Torque</label
+          >
+        </div>
+        <div class="form-group">
+          <p>Any comments or suggestions?</p>
+          <textarea
+            id="comments"
+            class="input-textarea"
+            name="comment"
+            placeholder="Enter your comment here..."
+          ></textarea>
+        </div>
+        <div class="form-group">
+          <button type="submit" id="submit" class="submit-button">
+            Submit
+          </button>
+        </div>
+      </form>
+    </div>
+  </body>
+</html>

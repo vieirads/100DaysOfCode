@@ -1,3 +1,138 @@
-html {
+:root {
+    --tone-1: rgba(0, 53, 106);
+    --tone-2: rgba(50, 134, 170);
+    --tone-3: rgba(145, 187, 209);
+    --tone-4: rgba(220, 233, 239);
+    --tone-5: rgba(250, 251, 253);
+  }
+  
+  html {
     font-size: 10px;
-}
+  }
+  
+  body {
+    font-size: 1.6rem;
+    text-align: center;
+    background-image: linear-gradient(
+      60deg,
+      var(--tone-5),
+      var(--tone-2)
+      );
+  }
+  
+  h1 {
+    font-size: 4rem;
+    color: var(--tone-1);
+    margin-bottom: -1rem;
+  }
+  
+  .bold-blue {
+    color: var(--tone-1);
+    font-weight: bold;
+    font-size: 2rem;
+  }
+  
+  .div-back {
+    background-color: var(--tone-2);
+    border-radius: 1rem;
+    width: 92%;
+    margin: auto;
+    box-shadow: 
+      10px 10px 15px rgba(0,0,0,0.19),
+      5px 5px 10px rgba(0,0,0,0.23);
+  }
+  
+  .div-front {
+    background-color: var(--tone-3);
+    border-radius: 1rem;
+    position: relative;
+    bottom: -0.5em;
+    left: 0.5em;
+    box-shadow: 
+      10px 10px 15px rgba(0,0,0,0.19),
+      5px 5px 10px rgba(0,0,0,0.23);
+  }
+  
+  #img-div {
+    padding: 1rem 0 1rem 0;
+    background-color: var(--tone-3);
+    border-radius: 1rem;
+    width: 100%;
+    position: relative;
+    bottom: -0.5em;
+    left: -2em;
+    box-shadow: 
+      10px 10px 15px rgba(0,0,0,0.19),
+      5px 5px 10px rgba(0,0,0,0.23);
+  }
+  
+  img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  #image {
+    border-radius: 1rem;
+    box-shadow: 
+      10px 10px 15px rgba(0,0,0,0.19), 
+      5px 5px 10px rgba(0,0,0,0.23);
+    margin-top: 1.5rem;
+    margin-right: auto;
+    margin-left: auto;
+    width: 80rem;
+  }
+  
+  #img-caption {
+    margin-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    color: var(--tone-1);
+    font-weight: bold;
+  }
+  
+  .container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1rem;
+    padding: 0 3rem 0 3rem;
+  }
+  
+  @media (max-width: 60rem) {
+    .container {
+      display: grid;
+      grid-template-columns: 0.8fr;
+    }
+  }
+  
+  ul {
+    text-align: justify;
+    margin: 0 auto 50px auto;
+    line-height: 1.6;
+    color: var(--tone-1);
+  }
+  
+  li {
+    margin: 16px 0;
+  }
+  
+  a {
+    color: #477ca7;
+  }
+  
+  a:visited {
+    color: #74638f;
+  }
+  
+  h3 {
+     color: var(--tone-1);
+  }
+  
+  li.sub-item {
+    margin-left: 3rem;
+  }
+  
+  #div-end {
+    background-color: var(--tone-3);
+    padding: 1rem 0 1rem 0;
+  }

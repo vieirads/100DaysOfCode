@@ -73,4 +73,9 @@ Finally updated <a href="https://vieirads.github.io">GitHub page</a> with what I
 Kept working on my <a href="https://vieirads.github.io">GitHub page</a>. Tried to implement `grid` and `flexbox` into some components. I also tried to use `@media` queries in order to make the size of the elements and fonts responsive.
 
 ### R1D23
-Study and reproduced the Portifolio example by **freeCodeCamp**. I wrote the CSS trying to understand what each property would do. It was a good exercise.
+Studied and reproduced the Portfolio example by **freeCodeCamp**. I wrote the CSS trying to understand what each property would do. It was a good exercise.
+
+### R1D24
+Started to study JavaScript at **freeCodeCamp**. I want to learn more about how the dynamics of the pages work, and, of course, how can I implement them.
+
+Going throught the begginer's part. So far it is ok, since I already studied this part once.

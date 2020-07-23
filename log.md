@@ -252,3 +252,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** I am feeling good about what I am learning. I am remembering some of the study that I saw during the course and getting a chance to better understand them.
 
 **Link to work:** https://codepen.io/dennersvieira/pen/QWyJodO
+
+### Day 24: July 22, 2020
+
+**Today's Progress:** Started to study JavaScript at **freeCodeCamp**. I want to learn more about how the dynamics of the pages work, and, of course, how can I implement them.
+
+**Thoughts:** Going throught the begginer's part. So far it is ok, since I already studied this part once.
+
+**Link to work:** no link for this part.

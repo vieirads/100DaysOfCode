@@ -260,3 +260,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** Going throught the begginer's part. So far it is ok, since I already studied this part once.
 
 **Link to work:** no link for this part.
+
+### Day 25: July 23, 2020
+
+**Today's Progress:** Studied a bit more of JavaScript at **freeCodeCamp** and read some things about CSS, which made me learn about depth of properties of classes: simple stuff, but I didn't know about it.
+
+**Thoughts:** I really like CSS =)
+
+**Link to work:** no link for this part.

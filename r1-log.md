@@ -79,3 +79,6 @@ Studied and reproduced the Portfolio example by **freeCodeCamp**. I wrote the CS
 Started to study JavaScript at **freeCodeCamp**. I want to learn more about how the dynamics of the pages work, and, of course, how can I implement them.
 
 Going throught the begginer's part. So far it is ok, since I already studied this part once.
+
+### R1D25
+Studied a bit more of JavaScript at **freeCodeCamp** and read some things about CSS, which made me learn about depth of properties of classes: simple stuff, but I didn't know about it.

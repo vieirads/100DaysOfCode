@@ -82,3 +82,6 @@ Going throught the begginer's part. So far it is ok, since I already studied thi
 
 ### R1D25
 Studied a bit more of JavaScript at **freeCodeCamp** and read some things about CSS, which made me learn about depth of properties of classes: simple stuff, but I didn't know about it.
+
+### R1D26
+Finished the Basic JavaScript at **freeCodeCamp**.

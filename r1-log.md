@@ -85,3 +85,6 @@ Studied a bit more of JavaScript at **freeCodeCamp** and read some things about 
 
 ### R1D26
 Finished the Basic JavaScript at **freeCodeCamp**.
+
+### R1D27
+Studied a little CSS and JavaScript.

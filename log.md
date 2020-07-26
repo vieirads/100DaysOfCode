@@ -276,3 +276,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** So far it is going smooth. 
 
 **Link to work:** no link for this part.
+
+### Day 27: July 25, 2020
+
+**Today's Progress:** Studied a little CSS and JavaScript.
+
+**Thoughts:** Very tired today.
+
+**Link to work:** no link for this part.

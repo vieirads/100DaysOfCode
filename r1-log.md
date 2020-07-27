@@ -88,3 +88,6 @@ Finished the Basic JavaScript at **freeCodeCamp**.
 
 ### R1D27
 Studied a little CSS and JavaScript.
+
+### R1D28
+Finished the ES6 section at **freeCodeCamp**. Also started to read about jQuery. Still haven't figure out what is the deal with Promises.

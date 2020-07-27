@@ -284,3 +284,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** Very tired today.
 
 **Link to work:** no link for this part.
+
+### Day 28: July 26, 2020
+
+**Today's Progress:** Finished the ES6 section at **freeCodeCamp**. Also started to read about jQuery.
+
+**Thoughts:** Still haven't figure out what is the deal with Promises.
+
+**Link to work:** no link for this part.

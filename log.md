@@ -292,3 +292,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** Still haven't figure out what is the deal with Promises.
 
 **Link to work:** no link for this part.
+
+### Day 29: July 27, 2020
+
+**Today's Progress:** Went through the Bootstrap and jQuery sections of **freeCodeCamp**. Bootstrap is very helpful and have everything ready for use and it is totally responsive. Learn the basics of jQuery, but I still need more content to do the stuff I want o my page.
+
+**Thoughts:** Pretty cool stuff and easy to use.
+
+**Link to work:** no link for this part.

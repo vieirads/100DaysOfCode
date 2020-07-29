@@ -300,3 +300,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** Pretty cool stuff and easy to use.
 
 **Link to work:** no link for this part.
+
+### Day 30: July 28, 2020
+
+**Today's Progress:** Went through the Sass section of **freeCodeCamp** and started the React one. I think I have seen enough for now. Tomorrow I will start building small projects.
+
+**Thoughts:** I found a page with 100 projects: (100+ JS projects)[https://jsbeginners.com/javascript-projects-for-beginners/]. I will start them tomorrow.
+
+**Link to work:** no link for this part.

@@ -94,3 +94,6 @@ Finished the ES6 section at **freeCodeCamp**. Also started to read about jQuery.
 
 ### R1D29
 Went through the Bootstrap and jQuery sections of **freeCodeCamp**. Bootstrap is very helpful and have everything ready for use and it is totally responsive. Learn the basics of jQuery, but I still need more content to do the stuff I want o my page. Pretty cool stuff and easy to use.
+
+### R1D30
+Went through the Sass section of **freeCodeCamp** and started the React one. I think I have seen enough for now. Tomorrow I will start building small projects.

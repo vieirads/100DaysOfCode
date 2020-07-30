@@ -100,3 +100,8 @@ Went through the Sass section of **freeCodeCamp** and started the React one. I t
 
 ### R131
 Wrote a little code in python today for a project. Also, started creating simple projects using HTML, CSS, and JS. Made a simple page with a button that changes the background color when clicked.
+
+### R1D32
+Made two applications using HTML, CSS, and JS:
+- First one changes the color of the background and display the Hex code of the color;
+- Second one is a random quote generator, that also changes the color of the elements using a single color or a mix of colors.

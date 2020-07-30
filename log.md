@@ -315,4 +315,14 @@ When we are resing the window, we can change how the grid is displayed to a bett
 
 **Thoughts:** I think that creating projects, despite simple, help a lot more than going through tutorials, these serve for you to create a base and know the stuff that exist. 
 
+**Link to work:** https://bit.ly/33bXgYz
+
+### Day 32: July 30, 2020
+
+**Today's Progress:** Made two applications using HTML, CSS, and JS:
+- First one changes the color of the background and display the Hex code of the color;
+- Second one is a random quote generator, that also changes the color of the elements using a single color or a mix of colors.
+
+**Thoughts:** Getting the hand of the basic JS applied to HTML and CSS. Reaaly enjoying it!
+
 **Link to work:** 

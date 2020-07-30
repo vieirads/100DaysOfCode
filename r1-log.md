@@ -97,3 +97,6 @@ Went through the Bootstrap and jQuery sections of **freeCodeCamp**. Bootstrap is
 
 ### R1D30
 Went through the Sass section of **freeCodeCamp** and started the React one. I think I have seen enough for now. Tomorrow I will start building small projects.
+
+### R131
+Wrote a little code in python today for a project. Also, started creating simple projects using HTML, CSS, and JS. Made a simple page with a button that changes the background color when clicked.

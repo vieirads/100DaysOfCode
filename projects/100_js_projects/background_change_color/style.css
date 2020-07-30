@@ -1,0 +1,18 @@
+.btn-center {
+    background-color: inherit;
+    border: 0.3em solid rgba(200,200,200,0.3);
+    border-radius: 1em;
+    color: rgba(200,200,200);
+    padding: 0.5em;
+    position: relative;
+    margin: 40vw 40vh;
+    width: 150px;
+    height: 75px;
+    font-size: 1em;
+}
+
+.btn-center:hover {
+    background-color: rgba(200,200,200);
+    color: rgba(255, 255, 255);
+    font-weight: 800;
+}

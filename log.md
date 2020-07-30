@@ -308,3 +308,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** I found a page with 100 projects: (100+ JS projects)[https://jsbeginners.com/javascript-projects-for-beginners/]. I will start them tomorrow.
 
 **Link to work:** no link for this part.
+
+### Day 31: July 29, 2020
+
+**Today's Progress:** Wrote a little code in python today for a project. Also, started creating simple projects using HTML, CSS, and JS. Made a simple page with a button that changes the background color when clicked.
+
+**Thoughts:** I think that creating projects, despite simple, help a lot more than going through tutorials, these serve for you to create a base and know the stuff that exist. 
+
+**Link to work:** 

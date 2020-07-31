@@ -325,4 +325,15 @@ When we are resing the window, we can change how the grid is displayed to a bett
 
 **Thoughts:** Getting the hand of the basic JS applied to HTML and CSS. Reaaly enjoying it!
 
-**Link to work:** 
+**Link to work:** [Hex background color](https://github.com/vieirads/100DaysOfCode/tree/master/projects/100_js_projects/2_hex_change_background_color)
+[Random quote generator](https://github.com/vieirads/100DaysOfCode/tree/master/projects/100_js_projects/3_random_quotes)
+
+
+### Day 33: July 31, 2020
+
+**Today's Progress:** Started another little project where you type a message and it is displayed somewhere else. Following this list of projects [here](https://jsbeginners.com/javascript-projects-for-beginners/) in order to learn HTML, CSS, and JS.
+
+**Thoughts:** I am having fun with these projects.
+
+**Link to work:**
+

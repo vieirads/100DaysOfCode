@@ -105,3 +105,6 @@ Wrote a little code in python today for a project. Also, started creating simple
 Made two applications using HTML, CSS, and JS:
 - First one changes the color of the background and display the Hex code of the color;
 - Second one is a random quote generator, that also changes the color of the elements using a single color or a mix of colors.
+
+### R1D33
+Started another little project where you type a message and it is displayed somewhere else. Following this list of projects [here](https://jsbeginners.com/javascript-projects-for-beginners/) in order to learn HTML, CSS, and JS.

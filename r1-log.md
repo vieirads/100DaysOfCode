@@ -108,3 +108,6 @@ Made two applications using HTML, CSS, and JS:
 
 ### R1D33
 Started another little project where you type a message and it is displayed somewhere else. Following this list of projects [here](https://jsbeginners.com/javascript-projects-for-beginners/) in order to learn HTML, CSS, and JS.
+
+## R1D34
+Mande a simple counter app using HTML, CSS, and JS. Learning how to deal with event listener.

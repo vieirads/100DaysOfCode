@@ -29,16 +29,26 @@ body {
 
 .guide-text {
     font-size: 1.7rem;
-    padding: 1rem;
+    padding: 0.5rem;
+}
+
+.guide-text::before,
+.guide-text::after {
+    content: "";
+    width: 70%;
+    height: 3px;
+    background-color: currentColor;
+    display: block;
+    margin: 0.2rem auto;
 }
 
 #main-input {
     width: 70%;
     height: 10%;
     font-size: 1rem;
-    margin: 1rem;
     border-radius: 1rem;
     border: 2px solid rgba(200,200,200);
+    outline: none;
 }
 
 #btn-submit {
@@ -49,9 +59,15 @@ body {
     font-size: 1rem;
     cursor: pointer;
     outline: none;
+    margin-top: 1rem;
 }
 
 #btn-submit:hover {
     box-shadow: 3px 3px 5px rgba(0,0,0,0.20),
                 1px 1px 5px rgba(0,0,0,0.25);
+}
+
+#last-message {
+    font-size: 1.5rem;
+    line-height: 0.5rem;
 }

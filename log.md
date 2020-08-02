@@ -335,5 +335,13 @@ When we are resing the window, we can change how the grid is displayed to a bett
 
 **Thoughts:** I am having fun with these projects.
 
-**Link to work:**
+**Link to work:** [Pass the message](https://github.com/vieirads/100DaysOfCode/tree/master/projects/100_js_projects/4_pass_the_message)
 
+
+### Day 34: July 32, 2020
+
+**Today's Progress:** Mande a simple counter app using HTML, CSS, and JS. Learning how to deal with event listener.
+
+**Thoughts:** I am pretty proud of the things I am learning.
+
+**Link to work:** [Counter]()

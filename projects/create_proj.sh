@@ -22,16 +22,16 @@ echo "<!DOCTYPE html>
 
 <head>
     <title></title>
-    <link rel="stylesheet" href="style.css">
+    <link rel=\"stylesheet\" href=\"style.css\">
 </head>
 
 <body>
 
 
-<script src="script.js"></script>
+<script src=\"script.js\"></script>
 </body>
 </html>
-" >> index.html
+" > index.html
 
 # create empty CSS and JS files
 # touch style.css
@@ -47,7 +47,7 @@ echo "<h1></h1>
 
 <p>
 
-</p>" >> README.md
+</p>" > README.md
 
 # messages after all files were created
 echo -e "\n--------------------------------------\n"

@@ -1,0 +1,176 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("https://images2.alphacoders.com/304/thumb-1920-3042.png");
+    font-family: monospace;
+}
+
+#main-frame {
+    background-color: rgba(255,255,255,0.9);
+    width: 70%;
+    max-width: 800px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 3px solid rgba(0,0,0,0.8);
+    border-radius: 1rem;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+    text-align: center;
+}
+
+h1::after {
+    content: "";
+    width: 120px;
+    height: 3px;
+    display: block;
+    margin: 0 auto;
+    background: rgba(0,0,0,0.8);
+}
+
+#btn-container-1,
+#btn-container-5,
+#btn-container-10,
+#btn-container-random,
+#btn-container-choose-num {
+    display: flex;
+    margin-bottom: 0.5rem;
+}
+
+#btn-increase-1,
+#btn-increase-5,
+#btn-increase-10,
+#btn-increase-random,
+#btn-increase-choose-num {
+    border: 1px solid rgba(0,0,0,0.8);
+    border-radius: 0.2rem;
+    margin-right: 0.2rem;
+    margin-bottom: 0.2rem;
+    width: 100px;
+    height: 40px;
+    padding: 0.5rem;
+    background-color: green;
+    color: rgba(255,255,255,0.9);
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+#btn-increase-1:hover,
+#btn-increase-5:hover,
+#btn-increase-10:hover,
+#btn-increase-random:hover,
+#btn-increase-choose-num:hover {
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.2),
+                2px 2px 3px rgba(0,0,0,0.23);
+}
+
+#btn-container-choose-num {
+    transform: translateX(-30px);
+}
+
+#btn-decrease-1,
+#btn-decrease-5,
+#btn-decrease-10,
+#btn-decrease-random,
+#btn-decrease-choose-num {
+    border: 1px solid rgba(0,0,0,0.8);
+    border-radius: 0.2rem;
+    margin-left: 0.2rem;
+    margin-bottom: 0.2rem;
+    width: 100px;
+    height: 40px;
+    padding: 0.5rem;
+    background-color: red;
+    color: rgba(255,255,255,0.9);
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+#btn-decrease-1:hover,
+#btn-decrease-5:hover,
+#btn-decrease-10:hover,
+#btn-decrease-random:hover,
+#btn-decrease-choose-num:hover {
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.2),
+                2px 2px 3px rgba(0,0,0,0.23);
+}
+
+#choose-num {
+    border: 1px solid rgba(0,0,0,0.8);
+    border-radius: 0.2rem;
+    margin-right: 0.4rem;
+    outline: none;
+    margin-bottom: 0.2rem;
+    width: 150px;
+    height: 35px;
+}
+
+#choose-num:focus {
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.2),
+                2px 2px 3px rgba(0,0,0,0.23);
+}
+
+#btn-clear-choose-num {
+    border: 1px solid rgba(0,0,0,0.8);
+    border-radius: 0.2rem;
+    margin-left: 0.2rem;
+    margin-bottom: 0.2rem;
+    width: 100px;
+    height: 40px;
+    background-color: red;
+    color: rgba(255,255,255,0.9);
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+#btn-clear-chose-num:hover {
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.2),
+                2px 2px 3px rgba(0,0,0,0.23);
+}
+
+#numbers-properties,
+#counter-properties {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#btn-save,
+#btn-reset,
+#btn-reset-all {
+    border: 1px solid rgba(0,0,0,0.8);
+    border-radius: 0.2rem;
+    margin-left: 0.2rem;
+    margin-bottom: 0.2rem;
+    width: 100px;
+    height: 40px;
+}
+
+#btn-save {
+    background-color: green;
+    color: rgba(255,255,255,0.9);
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+#btn-reset,
+#btn-reset-all {
+    background-color: red;
+    color: rgba(255,255,255,0.9);
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+#btn-save:hover,
+#btn-reset:hover,
+#btn-reset-all:hover {
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.2),
+                2px 2px 3px rgba(0,0,0,0.23);
+}

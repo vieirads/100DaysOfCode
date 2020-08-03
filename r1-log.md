@@ -111,3 +111,6 @@ Started another little project where you type a message and it is displayed some
 
 ## R1D34
 Mande a simple counter app using HTML, CSS, and JS. Learning how to deal with event listener.
+
+### R1D35
+Started a new project that consists of a simple image slider. Did not finish it yet.

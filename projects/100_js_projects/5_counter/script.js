@@ -19,7 +19,7 @@ const btnDecreaseChooseNum = document.getElementById("btn-decrease-choose-num");
 const btnClearChooseNum    = document.getElementById("btn-clear-choose-num");
 
 const numbersChosen = document.getElementById("numbers-chosen");
-let numbersChosenArray = [];
+const numbersChosenArray = [];
 let numbersChosenCounter = 0;
 
 const totalNumUsed = document.getElementById("total-num-used");
@@ -92,7 +92,7 @@ function resetCounter() {
     counterDisplay.innerHTML = 0;
     numbersChosen.innerHTML = 0;
     totalNumUsed.innerHTML = 0;
-    // numbersChosenArray = [];
+    numbersChosenArray = [];
 }
 
 function resetAll() {

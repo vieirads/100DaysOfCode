@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(
+        30deg,
+        rgba(10,10,100),
+        rgba(150,150,150)
+    );
+}
+
+#main-frame {
+    width: 300px;
+    height: 400px;
+    background-color: rgba(255,255,255);
+}

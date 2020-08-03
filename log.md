@@ -344,4 +344,12 @@ When we are resing the window, we can change how the grid is displayed to a bett
 
 **Thoughts:** I am pretty proud of the things I am learning.
 
-**Link to work:** [Counter]()
+**Link to work:** [Counter](https://github.com/vieirads/100DaysOfCode/tree/master/projects/100_js_projects/5_counter)
+
+### Day 35: July 33, 2020
+
+**Today's Progress:** Started a new project that consists of a simple image slider. Did not finish it yet.
+
+**Thoughts:** 
+
+**Link to work:**

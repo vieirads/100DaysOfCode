@@ -338,7 +338,7 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Link to work:** [Pass the message](https://github.com/vieirads/100DaysOfCode/tree/master/projects/100_js_projects/4_pass_the_message)
 
 
-### Day 34: July 32, 2020
+### Day 34: August 01, 2020
 
 **Today's Progress:** Mande a simple counter app using HTML, CSS, and JS. Learning how to deal with event listener.
 
@@ -346,10 +346,18 @@ When we are resing the window, we can change how the grid is displayed to a bett
 
 **Link to work:** [Counter](https://github.com/vieirads/100DaysOfCode/tree/master/projects/100_js_projects/5_counter)
 
-### Day 35: July 33, 2020
+### Day 35: August 02, 2020
 
 **Today's Progress:** Started a new project that consists of a simple image slider. Did not finish it yet.
 
-**Thoughts:** 
+**Thoughts:** -
 
-**Link to work:**
+**Link to work:** no link yet.
+
+### Day 36: August 03, 2020
+
+**Today's Progress:** Made a simple calculator using HTML, CSS, and JavaScript. The code is on an app on my phone, but tomorrow I am going to put it on files in a project folder.
+
+**Thoughts:** I have to learn how to call create and add event listeners using some kind of loop in order to write less code.
+
+**Link to work:** no link yet.

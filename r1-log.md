@@ -114,3 +114,6 @@ Mande a simple counter app using HTML, CSS, and JS. Learning how to deal with ev
 
 ### R1D35
 Started a new project that consists of a simple image slider. Did not finish it yet.
+
+### R1D36
+Made a simple calculator using HTML, CSS, and JavaScript. The code is on an app on my phone, but tomorrow I am going to put it on files in a project folder.

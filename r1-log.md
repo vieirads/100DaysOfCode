@@ -117,3 +117,6 @@ Started a new project that consists of a simple image slider. Did not finish it 
 
 ### R1D36
 Made a simple calculator using HTML, CSS, and JavaScript. The code is on an app on my phone, but tomorrow I am going to put it on files in a project folder.
+
+### R1D37
+Worked a bit with python doing some figures. Learned how to select multiple queries using JavaScript just in one line of code. I am going to test this on my calculator and put the code on codepen.

@@ -361,3 +361,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** I have to learn how to call create and add event listeners using some kind of loop in order to write less code.
 
 **Link to work:** no link yet.
+
+### Day 37: August 04, 2020
+
+**Today's Progress:** Worked a bit with python doing some figures. Learned how to select multiple queries using JavaScript just in one line of code. I am going to test this on my calculator and put the code on codepen.
+
+**Thoughts:**
+
+**Link to work:** No link for this part.

@@ -1,0 +1,284 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+body {
+  background-color: rgba(0,0,0,0.7);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+#phone {
+  width: 400px;
+  height: 700px;
+  background-color: #fff;
+  border-radius: 2rem;
+  box-shadow: 
+    9px 9px 10px rgba(0,0,0,0.2),
+    5px 5px 10px rgba(0,0,0,0.2);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#cameras-speaker {
+  width: 23%;
+  height: 5%;
+  margin-top: 3%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+#camera-left {
+  width: 15%;
+  height: 35%;
+  background-color: #000;
+  border-radius: 50%;
+  background: rgb(2,0,36);
+  background: radial-gradient(circle,  rgba(0,212,255,1) 0%, rgba(9,9,121,1) 40%, rgba(2,0,36,1) 100%); 
+}
+
+#camera-top-speaker {
+  width: 80%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: center; */
+}
+
+#camera-top {
+  width: 10%;
+  height: 20%;
+  background-color: #000;
+  border-radius: 50%;
+  margin: 5px;
+}
+
+#speaker {
+  width: 90%;
+  height: 15%;
+  background-color: #000;
+  border-radius: 2rem;
+}
+
+#display-home {
+  position: relative;
+  background-color: #000;
+  background-image: url(https://bit.ly/31lOzZ5);
+  background-size: 100% 100%;
+  width: 90%;
+  height: 82%;
+  background-position: center center;
+  background-size: 110% 110%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#info-hour-battery {
+  width: 95%;
+  height: 3%;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 5px;
+}
+
+p {
+  font-size: 13px;
+}
+
+#perc:after {
+  content: "";
+  display: inline-block;
+  width: 25px;
+  height: 10px;
+  background-color: #fff;
+  margin-left: 3px;
+  margin-bottom: -2px;
+  border: 1.5px solid #fff;
+  border-radius: 5px;
+  background-color: #fff;
+  background-clip: content-box;
+  padding: 1px;
+}
+
+#apps {
+  width: 95%;
+  height: 80%;
+  margin-top: 10px;
+}
+
+#app-calc {
+  background-color: transparent;
+  border: none;
+  background-image: 
+    url(https://bit.ly/39XwWTr);
+  background-repeat: no-repeat;
+  width: 70px;
+  height: 68px;
+  background-position: center center;
+  background-size: 110% 110%;
+  cursor: pointer;
+  outline: none;
+}
+
+#app-calc::after {
+  content: "Calculator";
+  color: #fff;
+  width: 70px;
+  height: 68px;
+  display: block;
+  margin-left: -8px;
+  margin-top: 68px;
+  font-size: 14px;
+}
+
+#shortcut-apps {
+  width: 100%;
+  height: 13%;
+  background-color: gray;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+#app-phone {
+  background-color: transparent;
+  border: none;
+  background-image: 
+    url(https://bit.ly/3fr5hLK);
+  background-repeat: no-repeat;
+  width: 70px;
+  height: 68px;
+  background-position: center center;
+  background-size: 110% 110%;
+  cursor: pointer;
+}
+
+#app-mail {
+  background-color: transparent;
+  border: none;
+  background-image: 
+    url(https://bit.ly/3gyhXBJ);
+  background-repeat: no-repeat;
+  width: 70px;
+  height: 68px;
+  background-position: center center;
+  background-size: 110% 110%;
+  cursor: pointer;
+}
+
+#app-music {
+  background-color: transparent;
+  border: none;
+  background-image: 
+    url(https://bit.ly/3gJztU1);
+  background-repeat: no-repeat;
+  width: 70px;
+  height: 68px;
+  background-position: center center;
+  background-size: 110% 110%;
+  cursor: pointer;
+}
+
+#app-camera {
+  background-color: transparent;
+  border: none;
+  background-image: 
+    url(https://bit.ly/3gy6TVg);
+  background-repeat: no-repeat;
+  width: 70px;
+  height: 68px;
+  background-position: center center;
+  background-size: 110% 110%;
+  cursor: pointer;
+}
+
+#btn-home {
+  width: 12%;
+  height: 7%;
+  border: 1px solid #000;
+  border-radius: 50%;
+  margin-bottom: 2%;
+  background-color: inherit;
+  box-shadow: 
+    inset 0 0 2px #000000;
+  cursor: pointer;
+  outline: none;
+}
+
+
+#phone > #display-calc {
+  display: none;
+}
+
+#phone.switched > #display-home {
+  display: none;
+}
+
+#phone.switched > #display-calc {
+  position: relative;
+  background-color: #000;
+  width: 90%;
+  height: 82%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#calc-display {
+  color: #fff;
+  width: 90%;
+  height: 35%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  font-size: 3.5rem;
+}
+
+#calc-btns {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: space-around;
+  margin: 1rem;
+}
+
+#calc-btns > 
+#calc-btn-AC,
+#calc-btn-0 {
+  width: 155px;
+  border-radius: 3rem;
+}
+
+.calc-btn {
+  width: 70px;
+  height: 70px;
+  border: none;
+  border-radius: 50%;
+  font-size: 30px;
+  margin: 3px auto;
+  cursor: pointer;
+  outline: none;
+}
+
+.calc-btn:hover {
+  background-color: rgba(200,200,200);
+}
+
+.btn-orange {
+  background-color: rgba(247, 146, 5);
+  color: #fff;
+}
+
+.btn-dark-gray {
+  background-color: rgba(50, 50, 50);
+  color: #fff;
+}

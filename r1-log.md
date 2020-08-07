@@ -120,3 +120,6 @@ Made a simple calculator using HTML, CSS, and JavaScript. The code is on an app 
 
 ### R1D37
 Worked a bit with python doing some figures. Learned how to select multiple queries using JavaScript just in one line of code. I am going to test this on my calculator and put the code on codepen.
+
+### R1D38
+Created an iPhone case with a calculator app that works. Well, it redirects you to the app. I still have to write the JavaScript functions to make the calculator, hmmm, calculate.

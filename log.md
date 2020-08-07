@@ -369,3 +369,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:**
 
 **Link to work:** No link for this part.
+
+### Day 38: August 05, 2020
+
+**Today's Progress:** Created an iPhone case with a calculator app that works. Well, it redirects you to the app. I still have to write the JavaScript functions to make the calculator, hmmm, calculate.
+
+**Thoughts:** I am pretty happy with my progress. I didn't even see the time flowing. Really cool working with this stuff.
+
+**Link to work:** [iPhone calculator](https://bit.ly/3a0WDCD)

@@ -377,3 +377,19 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** I am pretty happy with my progress. I didn't even see the time flowing. Really cool working with this stuff.
 
 **Link to work:** [iPhone calculator](https://bit.ly/3a0WDCD)
+
+### Day 39: August 06, 2020
+
+**Today's Progress:** Implemented the functionality on the calculator app.
+
+**Thoughts:** I am getting better at this.
+
+**Link to work:** [iPhone calculator](https://bit.ly/3a0WDCD)
+
+### Day 40: August 07, 2020
+
+**Today's Progress:** I didn't have time to work with html, css, and javascript today. However I prepared a class about quantitative text analysis (PT) using python.
+
+**Thoughts:** Amazing how texts have universal properties explained by such simple equations.
+
+**Link to work:**

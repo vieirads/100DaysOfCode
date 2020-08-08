@@ -123,3 +123,9 @@ Worked a bit with python doing some figures. Learned how to select multiple quer
 
 ### R1D38
 Created an iPhone case with a calculator app that works. Well, it redirects you to the app. I still have to write the JavaScript functions to make the calculator, hmmm, calculate.
+
+### R1D39
+Implemented the functionality on the calculator app.
+
+### R1D40
+I didn't have time to work with html, css, and javascript today. However I prepared a class about quantitative text analysis (PT) using python. Amazing how texts have universal properties explained by such simple equations.

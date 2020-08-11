@@ -129,3 +129,12 @@ Implemented the functionality on the calculator app.
 
 ### R1D40
 I didn't have time to work with html, css, and javascript today. However I prepared a class about quantitative text analysis (PT) using python. Amazing how texts have universal properties explained by such simple equations.
+
+### R1D41 
+Worked a bit with python preparing my class on quantitative text analysis. I manage to code much better than the first time I did such analysis.
+
+### R1D42 
+Finished the content of my class on quantitative text analysis using python.
+
+### R1D43
+Worked with python on a separated project.

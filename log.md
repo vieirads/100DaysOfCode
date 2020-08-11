@@ -392,4 +392,28 @@ When we are resing the window, we can change how the grid is displayed to a bett
 
 **Thoughts:** Amazing how texts have universal properties explained by such simple equations.
 
-**Link to work:**
+**Link to work:** no link to this part.
+
+### Day 41: August 08, 2020
+
+**Today's Progress:** Worked a bit with python preparing my class on quantitative text analysis. 
+
+**Thoughts:** I manage to code much better than the first time I did such analysis.
+
+**Link to work:** no link to this part.
+
+### Day 42: August 09, 2020
+
+**Today's Progress:** Finished the content of my class on quantitative text analysis using python.
+
+**Thoughts:** I manage to code much better than the first time I did such analysis.
+
+**Link to work:** no link to this part.
+
+### Day 43: August 10, 2020
+
+**Today's Progress:** Worked with python on a separated project.
+
+**Thoughts:** The results I got are much better than I was expecting.
+
+**Link to work:** no link to this part.

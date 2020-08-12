@@ -417,3 +417,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** The results I got are much better than I was expecting.
 
 **Link to work:** no link to this part.
+
+### Day 44: August 11, 2020
+
+**Today's Progress:** Learning to use ipywidgets together with matplotlib to create a package to edit text on plots.
+
+**Thoughts:** Have to install [ipympl](https://github.com/matplotlib/ipympl) before start using the widgets with Jupyter notebook.
+
+**Link to work:** no link yet.

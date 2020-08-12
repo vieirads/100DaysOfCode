@@ -138,3 +138,6 @@ Finished the content of my class on quantitative text analysis using python.
 
 ### R1D43
 Worked with python on a separated project.
+
+### R1D44
+Learning to use ipywidgets together with matplotlib to create a package to edit text on plots.

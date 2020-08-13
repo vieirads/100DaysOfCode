@@ -141,3 +141,6 @@ Worked with python on a separated project.
 
 ### R1D44
 Learning to use ipywidgets together with matplotlib to create a package to edit text on plots.
+
+### R1D45
+I was curious about AngularJS. So I followed a tutorial on how to add elements on table. I am going to use it to make a todo list with a timer. So far I understood what is going on.

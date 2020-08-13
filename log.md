@@ -425,3 +425,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** Have to install [ipympl](https://github.com/matplotlib/ipympl) before start using the widgets with Jupyter notebook.
 
 **Link to work:** no link yet.
+
+### Day 45: August 12, 2020
+
+**Today's Progress:** I was curious about AngularJS. So I followed a tutorial on how to add elements on table. I am going to use it to make a todo list with a timer.
+
+**Thoughts:** So far I understood what is going on.
+
+**Link to work:** no link.

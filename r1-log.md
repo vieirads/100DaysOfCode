@@ -144,3 +144,7 @@ Learning to use ipywidgets together with matplotlib to create a package to edit 
 
 ### R1D45
 I was curious about AngularJS. So I followed a tutorial on how to add elements on table. I am going to use it to make a todo list with a timer. So far I understood what is going on.
+
+### R1D46
+Progressing in my chores/countdown app using AngularJS. Still grasping the basics and trying to google what I need. So far things are working. Even though I don't know why...
+I think I might have to read some basic material first. But, in the event of things keep working, I will continue with this project.

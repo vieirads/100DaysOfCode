@@ -433,3 +433,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** So far I understood what is going on.
 
 **Link to work:** no link.
+
+### Day 46: August 13, 2020
+
+**Today's Progress:** Progressing in my chores/countdown app using AngularJS. Still grasping the basics and trying to google what I need. So far things are working. Even though I don't know why...
+
+**Thoughts:** I think I might have to read some basic material first. But, in the event of things keep working, I will continue with this project.
+
+**Link to work:** no link.

@@ -148,3 +148,11 @@ I was curious about AngularJS. So I followed a tutorial on how to add elements o
 ### R1D46
 Progressing in my chores/countdown app using AngularJS. Still grasping the basics and trying to google what I need. So far things are working. Even though I don't know why...
 I think I might have to read some basic material first. But, in the event of things keep working, I will continue with this project.
+
+### R1D47
+Continued working on my `taskcounter` project. Added several buttons and implemented their functionalities. Now you can add, delete, skip, start, pause, resume and mark the tasks as done.
+I have to work on the order of the list as itens are being finished. When they have status 'Done' or 'Skipped' it should go to the end of the tasks marked as 'Queued'.
+
+### R1D48
+Worked on my task app. Modified the time display to HH:MM:SS. Learn a little bit about the Date() object: how to set and get its properties.
+I was doing several conditions to sum the seconds and minutes in order to display it correctly. But at a certain moment I was pissed and thought: "There has to be an easier way." Using the `Date()` object was the easier way.

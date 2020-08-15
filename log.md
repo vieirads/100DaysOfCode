@@ -441,3 +441,19 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** I think I might have to read some basic material first. But, in the event of things keep working, I will continue with this project.
 
 **Link to work:** no link.
+
+### Day 47: August 14, 2020
+
+**Today's Progress:** Continued working on my `taskcounter` project. Added several buttons and implemented their functionalities. Now you can add, delete, skip, start, pause, resume and mark the tasks as done.
+
+**Thoughts:** I have to work on the order of the list as itens are being finished. When they have status 'Done' or 'Skipped' it should go to the end of the tasks marked as 'Queued'.
+
+**Link to work:** https://vieirads.github.io/taskcounter/
+
+### Day 48: August 15, 2020
+
+**Today's Progress:** Worked on my task app. Modified the time display to HH:MM:SS. Learn a little bit about the Date() object: how to set and get its properties.
+
+**Thoughts:** I was doing several conditions to sum the seconds and minutes in order to display it correctly. But at a certain moment I was pissed and thought: "There has to be an easier way." Using the `Date()` object was the easier way.
+
+**Link to work:** https://vieirads.github.io/taskcounter/

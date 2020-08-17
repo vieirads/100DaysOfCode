@@ -457,3 +457,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** I was doing several conditions to sum the seconds and minutes in order to display it correctly. But at a certain moment I was pissed and thought: "There has to be an easier way." Using the `Date()` object was the easier way.
 
 **Link to work:** https://vieirads.github.io/taskcounter/
+
+### Day 49: August 16, 2020
+
+**Today's Progress:** Tried to make a countdown for my taskcounter app and could not figure it out. 
+
+**Thoughts:** Have to better understand the basics of AngularJS.
+
+**Link to work:** https://vieirads.github.io/taskcounter/

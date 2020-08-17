@@ -156,3 +156,7 @@ I have to work on the order of the list as itens are being finished. When they h
 ### R1D48
 Worked on my task app. Modified the time display to HH:MM:SS. Learn a little bit about the Date() object: how to set and get its properties.
 I was doing several conditions to sum the seconds and minutes in order to display it correctly. But at a certain moment I was pissed and thought: "There has to be an easier way." Using the `Date()` object was the easier way.
+
+### R1D49
+Tried to make a countdown for my taskcounter app and could not figure it out. 
+Have to better understand the basics of AngularJS.

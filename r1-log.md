@@ -163,3 +163,7 @@ Have to better understand the basics of AngularJS.
 
 ### R1D50
 Studied a bit of AngularJs in codecademy.
+
+### R1D51
+Studying on codecaemy, I learned how to format date outputs. This made the code of my `taskcounter` app cleaner and easier to achieve what I wanted. Happy with this progress =)
+Sometimes it pays off to study a bit instead of keep "cracking your head" trying things you don't even know how it works.

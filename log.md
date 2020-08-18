@@ -473,3 +473,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** So far it is going smooth.
 
 **Link to work:** no link.
+
+### Day 51: August 18, 2020
+
+**Today's Progress:** Studying on codecaemy, I learned how to format date outputs. This made the code of my `taskcounter` app cleaner and easier to achieve what I wanted. Happy with this progress =)
+
+**Thoughts:** Sometimes it pays off to study a bit instead of keep "cracking your head" trying things you don't even know how it works.
+
+**Link to work:** https://vieirads.github.io/taskcounter/

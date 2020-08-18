@@ -465,3 +465,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** Have to better understand the basics of AngularJS.
 
 **Link to work:** https://vieirads.github.io/taskcounter/
+
+### Day 50: August 17, 2020
+
+**Today's Progress:** Studied a bit of AngularJS in [codecademy](https://www.codecademy.com/learn). I have to learn the basics properly in order to come back to my `taskcounter` app.
+
+**Thoughts:** So far it is going smooth.
+
+**Link to work:** no link.

@@ -160,3 +160,6 @@ I was doing several conditions to sum the seconds and minutes in order to displa
 ### R1D49
 Tried to make a countdown for my taskcounter app and could not figure it out. 
 Have to better understand the basics of AngularJS.
+
+### R1D50
+Studied a bit of AngularJs in codecademy.

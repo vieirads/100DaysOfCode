@@ -481,3 +481,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** Sometimes it pays off to study a bit instead of keep "cracking your head" trying things you don't even know how it works.
 
 **Link to work:** https://vieirads.github.io/taskcounter/
+
+### Day 52: August 18, 2020
+
+**Today's Progress:** Added a dropdown to select hours and minutes for the tasks in my `taskcounter` app. Also modified the button skip in case you want to retake the skipped task, however it modifies all the buttons with this property. Have to fix this.
+
+**Thoughts:** I have to learn how to access a property concerning only the element I am dealing with in a click event, not all that share the same structure.
+
+**Link to work:** https://vieirads.github.io/taskcounter/

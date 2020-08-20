@@ -482,10 +482,18 @@ When we are resing the window, we can change how the grid is displayed to a bett
 
 **Link to work:** https://vieirads.github.io/taskcounter/
 
-### Day 52: August 18, 2020
+### Day 52: August 19, 2020
 
 **Today's Progress:** Added a dropdown to select hours and minutes for the tasks in my `taskcounter` app. Also modified the button skip in case you want to retake the skipped task, however it modifies all the buttons with this property. Have to fix this.
 
 **Thoughts:** I have to learn how to access a property concerning only the element I am dealing with in a click event, not all that share the same structure.
+
+**Link to work:** https://vieirads.github.io/taskcounter/
+
+### Day 53: August 20, 2020
+
+**Today's Progress:** Fixed the display of button `Skip`. Now only the clicked button changes to `Retake`. Create a simple solution involving arrays. The point is to make things work first =)
+
+**Thoughts:** Still think that there is a better way to solve this issue, but so far this one works.
 
 **Link to work:** https://vieirads.github.io/taskcounter/

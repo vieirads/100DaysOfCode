@@ -497,3 +497,12 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** Still think that there is a better way to solve this issue, but so far this one works.
 
 **Link to work:** https://vieirads.github.io/taskcounter/
+
+
+### Day 54: August 21, 2020
+
+**Today's Progress:** Worked on my `taskcounter` app. Added a feature where the taskas are grouped by their status. Also, when a task is adde, it goes right after the last queued one. 
+
+**Thoughts:** I learned how to create a method for arrays.
+
+**Link to work:** https://vieirads.github.io/taskcounter/

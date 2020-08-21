@@ -174,3 +174,6 @@ Added a dropdown to select hours and minutes for the tasks in my `taskcounter` a
 ### R1D53
 Fixed the display of button `Skip`. Now only the clicked button changes to `Retake`. Create a simple solution involving arrays. The point is to make things work first =)
 Still think that there is a better way to solve this issue, but so far this one works.
+
+### R1D54
+Worked on my `taskcounter` app. Added a feature where the taskas are grouped by their status. Also, when a task is added, it goes right after the last queued one. I accomplished this simply by using push and splice array methods. 

@@ -506,3 +506,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** I learned how to create a method for arrays.
 
 **Link to work:** https://vieirads.github.io/taskcounter/
+
+### Day 55: August 22, 2020
+
+**Today's Progress:** Manage to make the final time to stop once you click the button start. However, it does not account for the time paused when the button paused is clicked and then resume. Manage to make a countdown for the time in the tasks, but I try to modified it and it does not work anymore.
+
+**Thoughts:** I have to come back for these countdowns tomorrow and the wrong ellapsase time between paused and resumed.
+
+**Link to work:** https://vieirads.github.io/taskcounter/

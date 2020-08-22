@@ -177,3 +177,7 @@ Still think that there is a better way to solve this issue, but so far this one 
 
 ### R1D54
 Worked on my `taskcounter` app. Added a feature where the taskas are grouped by their status. Also, when a task is added, it goes right after the last queued one. I accomplished this simply by using push and splice array methods. 
+
+### R1D55
+Manage to make the final time to stop once you click the button start. However, it does not account for the time paused when the button paused is clicked and then resume. Manage to make a countdown for the time in the tasks, but I try to modified it and it does not work anymore.
+I have to come back for these countdowns tomorrow and the wrong ellapsase time between paused and resumed.

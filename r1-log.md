@@ -181,3 +181,6 @@ Worked on my `taskcounter` app. Added a feature where the taskas are grouped by 
 ### R1D55
 Manage to make the final time to stop once you click the button start. However, it does not account for the time paused when the button paused is clicked and then resume. Manage to make a countdown for the time in the tasks, but I try to modified it and it does not work anymore.
 I have to come back for these countdowns tomorrow and the wrong ellapsase time between paused and resumed.
+
+### R1D56
+My `taskcounter` now has the timers working: final time increases until the Start button is clicked. When this event is triggered, the first task starts to decrease its time, which increases the ellapsed time.

@@ -514,3 +514,13 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** I have to come back for these countdowns tomorrow and the wrong ellapsase time between paused and resumed.
 
 **Link to work:** https://vieirads.github.io/taskcounter/
+
+### Day 56: August 23, 2020
+
+**Today's Progress:** Make the timers work in my `taskcounter` app. Now, when the app is open, the final time is increasing to considering the real time you are going to finished the programmed tasks. Onde you click the 'Start' button, the final time stops. This event triggers the first task, which takes the status to `In progress` and its time starts to decrease by the second. Also, the ellapsed time of all the tasks combined keeps increasing. `Skipped`, `Done`, and `Queued` tasks are groupe separetly.
+
+**Thoughts:** What I still have to do: 
+- Fix the repositioning of the task if you hit the button `Retake`;
+- Put an alert once there is no queued tasks, letting the user know it has finished all of the tasks.
+
+**Link to work:** https://vieirads.github.io/taskcounter/

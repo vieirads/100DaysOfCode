@@ -184,3 +184,7 @@ I have to come back for these countdowns tomorrow and the wrong ellapsase time b
 
 ### R1D56
 My `taskcounter` now has the timers working: final time increases until the Start button is clicked. When this event is triggered, the first task starts to decrease its time, which increases the ellapsed time.
+
+### R1D57
+I have added a little CSS to the app. Today was full of classes and I did not have enough time to work on my project.
+Still have to fix the things mentioned on the `Day 56`.

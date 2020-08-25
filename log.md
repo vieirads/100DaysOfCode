@@ -524,3 +524,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 - Put an alert once there is no queued tasks, letting the user know it has finished all of the tasks.
 
 **Link to work:** https://vieirads.github.io/taskcounter/
+
+### Day 57: August 24, 2020
+
+**Today's Progress:** I have added a little CSS to the app. Today was full of classes and I did not have enough time to work on my project.
+
+**Thoughts:** Still have to fix the things mentioned on the `Day 56`.
+
+**Link to work:** https://vieirads.github.io/taskcounter/

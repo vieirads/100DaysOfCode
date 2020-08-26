@@ -188,3 +188,7 @@ My `taskcounter` now has the timers working: final time increases until the Star
 ### R1D57
 I have added a little CSS to the app. Today was full of classes and I did not have enough time to work on my project.
 Still have to fix the things mentioned on the `Day 56`.
+
+### R1D58
+Added a bit more of CSS to my `taskcounter` app.
+Still have to fix the things mentioned on the `Day 56`.

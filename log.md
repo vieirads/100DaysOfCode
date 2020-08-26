@@ -532,3 +532,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** Still have to fix the things mentioned on the `Day 56`.
 
 **Link to work:** https://vieirads.github.io/taskcounter/
+
+### Day 58: August 25, 2020
+
+**Today's Progress:** Added a bit more of CSS to my `taskcounter` app.
+
+**Thoughts:** Still have to fix the things mentioned on the `Day 56`.
+
+**Link to work:** https://vieirads.github.io/taskcounter/

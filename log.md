@@ -540,3 +540,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** Still have to fix the things mentioned on the `Day 56`.
 
 **Link to work:** https://vieirads.github.io/taskcounter/
+
+### Day 59: August 26, 2020
+
+**Today's Progress:** Added some change in style using css when a event is met. The classes and ids are changing based on the return of variables and functions within the angularjs app. These are then found in the css file and the style is applied accordingly.
+
+**Thoughts:** So far I think it is easier to make effects using this dynamical set of classes and ids using angularjs.
+
+**Link to work:** https://vieirads.github.io/taskcounter/

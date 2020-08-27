@@ -192,3 +192,7 @@ Still have to fix the things mentioned on the `Day 56`.
 ### R1D58
 Added a bit more of CSS to my `taskcounter` app.
 Still have to fix the things mentioned on the `Day 56`.
+
+### R1D59
+Added some change in style using css when a event is met. The classes and ids are changing based on the return of variables and functions within the angularjs app. These are then found in the css file and the style is applied accordingly.
+So far I think it is easier to make effects using this dynamical set of classes and ids using angularjs.

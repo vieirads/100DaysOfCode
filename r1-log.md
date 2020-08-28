@@ -196,3 +196,7 @@ Still have to fix the things mentioned on the `Day 56`.
 ### R1D59
 Added some change in style using css when a event is met. The classes and ids are changing based on the return of variables and functions within the angularjs app. These are then found in the css file and the style is applied accordingly.
 So far I think it is easier to make effects using this dynamical set of classes and ids using angularjs.
+
+### R1D60
+Made changes on the color scheme of the app on the `style.css` file. Had a lot of classes to teach and a meeting to attend.
+I wish I could have worked more on my app.

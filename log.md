@@ -548,3 +548,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** So far I think it is easier to make effects using this dynamical set of classes and ids using angularjs.
 
 **Link to work:** https://vieirads.github.io/taskcounter/
+
+### Day 60: August 27, 2020
+
+**Today's Progress:** Made changes on the color scheme of the app on the `style.css` file. Had a lot of classes to teach and a meeting to attend.
+
+**Thoughts:** I wish I could have worked more on my app.
+
+**Link to work:** https://vieirads.github.io/taskcounter/

@@ -200,3 +200,7 @@ So far I think it is easier to make effects using this dynamical set of classes 
 ### R1D60
 Made changes on the color scheme of the app on the `style.css` file. Had a lot of classes to teach and a meeting to attend.
 I wish I could have worked more on my app.
+
+### R1D61
+Polished the design of the `taskcounter` app and fixed some bugs. Still have to put an alert message when all the tasks are done.
+Pretty proud of what I did =)

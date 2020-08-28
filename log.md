@@ -556,3 +556,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** I wish I could have worked more on my app.
 
 **Link to work:** https://vieirads.github.io/taskcounter/
+
+### Day 61: August 28, 2020
+
+**Today's Progress:** Polished the design of the `taskcounter` app and fixed some bugs. Still have to put an alert message when all the tasks are done.
+
+**Thoughts:** Pretty proud of what I did =)
+
+**Link to work:** https://vieirads.github.io/taskcounter/

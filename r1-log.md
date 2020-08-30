@@ -204,3 +204,6 @@ I wish I could have worked more on my app.
 ### R1D61
 Polished the design of the `taskcounter` app and fixed some bugs. Still have to put an alert message when all the tasks are done.
 Pretty proud of what I did =)
+
+### R1D62
+Studied a little bit of D3. It is really nice to use and it is very intuitve. So far at least.

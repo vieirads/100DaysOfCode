@@ -564,3 +564,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** Pretty proud of what I did =)
 
 **Link to work:** https://vieirads.github.io/taskcounter/
+
+### Day 62: August 29, 2020
+
+**Today's Progress:** Studied a little bit of D3. It is really nice to use and it is very intuitve. So far at least.
+
+**Thoughts:** I thought that this module was just to create plots in order to visualize data, but it is so much more. And it has some of the stuff I was wondering how to do, like how to change the style of an element based on its value.
+
+**Link to work:** no link for this part.

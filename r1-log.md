@@ -207,3 +207,7 @@ Pretty proud of what I did =)
 
 ### R1D62
 Studied a little bit of D3. It is really nice to use and it is very intuitve. So far at least.
+
+### R1D63
+Studied a bit of Angular on SoloLearn.
+I didn't know that Angular used mainly TypeScript.

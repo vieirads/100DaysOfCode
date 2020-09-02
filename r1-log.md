@@ -211,3 +211,11 @@ Studied a little bit of D3. It is really nice to use and it is very intuitve. So
 ### R1D63
 Studied a bit of Angular on SoloLearn.
 I didn't know that Angular used mainly TypeScript.
+
+### R1D64
+Put an alert message in my `taskcounter` app when all the tasks are done. However, the message doesn't go away once I click on the `Ok` button. Have to fix that.
+I am working with the oldest version of Angular, which is AngularJS. I have to upgrade this and learn the most recent framework.
+
+### R1D65
+Studied a bit of Angular on Sololearn and the topic was how the data travels until it reaches the frontend display.
+I still have to study more this structures.

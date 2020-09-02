@@ -580,3 +580,19 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** I didn't know that Angular used mainly TypeScript.
 
 **Link to work:** no link for this part.
+
+### Day 64: August 31, 2020
+
+**Today's Progress:** Put an alert message in my `taskcounter` app when all the tasks are done. However, the message doesn't go away once I click on the `Ok` button. Have to fix that.
+
+**Thoughts:** I am working with the oldest version of Angular, which is AngularJS. I have to upgrade this and learn the most recent framework.
+
+**Link to work:** https://vieirads.github.io/taskcounter/
+
+### Day 65: September 01, 2020
+
+**Today's Progress:** Studied a bit of Angular on Sololearn and the topic was how the data travels until it reaches the frontend display.
+
+**Thoughts:** I still have to study more this structures.
+
+**Link to work:** no link for this part.

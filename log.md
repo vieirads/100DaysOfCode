@@ -596,3 +596,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** I still have to study more this structures.
 
 **Link to work:** no link for this part.
+
+### Day 66: September 02, 2020
+
+**Today's Progress:** Continued to study Angular on Sololearn. Learned about one-way and two-way data binding.
+
+**Thoughts:** Some concepts that I know about have specific names. I think I better learn the proper names.
+
+**Link to work:** no link for this part.

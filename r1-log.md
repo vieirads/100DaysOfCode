@@ -219,3 +219,7 @@ I am working with the oldest version of Angular, which is AngularJS. I have to u
 ### R1D65
 Studied a bit of Angular on Sololearn and the topic was how the data travels until it reaches the frontend display.
 I still have to study more this structures.
+
+### R1D66
+Continued to study Angular on Sololearn. Learned about one-way and two-way data binding.
+Some concepts that I know about have specific names. I think I better learn the proper names.

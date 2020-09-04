@@ -604,3 +604,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** Some concepts that I know about have specific names. I think I better learn the proper names.
 
 **Link to work:** no link for this part.
+
+### Day 67: September 03, 2020
+
+**Today's Progress:** Studied a bit of React. Create a app using the commands in terminal.
+
+**Thoughts:**  There are a lot of files that I have no idea what they are intend for. But I will keep things slow and learn the aspects of it bit by bit.
+
+**Link to work:** no link for this part.

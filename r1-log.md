@@ -223,3 +223,6 @@ I still have to study more this structures.
 ### R1D66
 Continued to study Angular on Sololearn. Learned about one-way and two-way data binding.
 Some concepts that I know about have specific names. I think I better learn the proper names.
+
+### R1D67
+Studied a bit of React. Create a app using the commands in terminal. There are a lot of files that I have no idea what they are intend for. But I will keep things slow and learn the aspects of it bit by bit.

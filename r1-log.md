@@ -226,3 +226,7 @@ Some concepts that I know about have specific names. I think I better learn the 
 
 ### R1D67
 Studied a bit of React. Create a app using the commands in terminal. There are a lot of files that I have no idea what they are intend for. But I will keep things slow and learn the aspects of it bit by bit.
+
+### R1D68
+Studied a bit more of react and learn how to create tags using functions and classes.
+I still have to find out how to put conditions when I click a button.

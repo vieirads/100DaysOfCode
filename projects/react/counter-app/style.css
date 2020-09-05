@@ -1,0 +1,15 @@
+#root {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#restart {
+    color: red;
+    text-decoration: underline;
+}
+
+h1, p {
+    font-family: monospace;
+    font-size: 50px;
+}

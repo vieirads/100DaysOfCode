@@ -612,3 +612,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:**  There are a lot of files that I have no idea what they are intend for. But I will keep things slow and learn the aspects of it bit by bit.
 
 **Link to work:** no link for this part.
+
+### Day 68: September 04, 2020
+
+**Today's Progress:** Studied a bit more of react and learn how to create tags using functions and classes.
+
+**Thoughts:** I still have to find out how to put conditions when I click a button.
+
+**Link to work:** no link for this part.

@@ -1,0 +1,54 @@
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    width: 70px;
+    height: 30px;
+    display: block;
+    margin: 0 auto;
+    font-size: 20px;
+    border-radius: 5px;
+    border: none;
+    color: #ffffff;
+}
+
+button:hover {
+    box-shadow: 
+        5px 5px 5px #00000011,
+        3px 3px 8px #00000022;
+}
+
+button:focus {
+    outline: none;
+}
+
+#btn-yes {
+    background-color: #11c482;
+}
+
+#btn-yes:hover {
+    background-color: #3aa47f;
+}
+
+
+#btn-no {
+    background-color: #ff0000bb;
+}
+
+#btn-no:hover {
+    background-color: #ff0000ff;
+}
+
+
+#restart {
+    color: red;
+    text-decoration: underline;
+}
+
+h1, p {
+    font-family: monospace;
+    font-size: 50px;
+}

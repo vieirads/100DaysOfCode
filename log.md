@@ -620,3 +620,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** I still have to find out how to put conditions when I click a button.
 
 **Link to work:** no link for this part.
+
+### Day 69: September 05, 2020
+
+**Today's Progress:** Studied a bit of React on Sololearn. Learn a bit about how to use `setState` and `Hooks`
+
+**Thoughts:** Very tired today. Tomorrow I kee studying.
+
+**Link to work:** no link for this part.

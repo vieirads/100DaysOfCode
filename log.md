@@ -628,3 +628,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** Very tired today. Tomorrow I kee studying.
 
 **Link to work:** no link for this part.
+
+### Day 70: September 06, 2020
+
+**Today's Progress:** Studied a bit of React. 
+
+**Thoughts:** Today I did not study much. I took a day off.
+
+**Link to work:** no link for this part.

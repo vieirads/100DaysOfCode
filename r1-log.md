@@ -234,3 +234,7 @@ I still have to find out how to put conditions when I click a button.
 ### R1D69
 Studied a bit of React on Sololearn. Learn a bit about how to use `setState` and `Hooks`
 Very tired today. Tomorrow I kee studying.
+
+### R1D70
+Studied a bit of React. 
+Today I did not study much. I took a day off.

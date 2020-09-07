@@ -636,3 +636,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** Today I did not study much. I took a day off.
 
 **Link to work:** no link for this part.
+
+### Day 71: September 07, 2020
+
+**Today's Progress:** Finished the React section on Sololearn tutorials. Manage to put a message of alert into one of my study projects when a button click event is triggered.
+
+**Thoughts:** Now that I have some basics, I have to start building something.
+
+**Link to work:** no link for this part.

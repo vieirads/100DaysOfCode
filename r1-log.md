@@ -238,3 +238,7 @@ Very tired today. Tomorrow I kee studying.
 ### R1D70
 Studied a bit of React. 
 Today I did not study much. I took a day off.
+
+### R1D71
+Finished the React section on Sololearn tutorials. Manage to put a message of alert into one of my study projects when a button click event is triggered.
+Now that I have some basics, I have to start building something.

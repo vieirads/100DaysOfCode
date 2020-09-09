@@ -242,3 +242,7 @@ Today I did not study much. I took a day off.
 ### R1D71
 Finished the React section on Sololearn tutorials. Manage to put a message of alert into one of my study projects when a button click event is triggered.
 Now that I have some basics, I have to start building something.
+
+### R1D72
+Studied a bit of Redux on Sololearn. 
+To be very honest, I still don't get the importance of this framework.

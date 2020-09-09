@@ -644,3 +644,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** Now that I have some basics, I have to start building something.
 
 **Link to work:** no link for this part.
+
+### Day 72: September 08, 2020
+
+**Today's Progress:** Studied a bit of Redux on Sololearn. 
+
+**Thoughts:** To be very honest, I still don't get the importance of this framework.
+
+**Link to work:** no link for this part.

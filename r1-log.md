@@ -246,3 +246,7 @@ Now that I have some basics, I have to start building something.
 ### R1D72
 Studied a bit of Redux on Sololearn. 
 To be very honest, I still don't get the importance of this framework.
+
+### R1D73
+Started to learn about `kivy` package on python. I am really liking it. Seems to be fun to work with.
+This package has it's own language, which looks like a CSS. You can separate all the GUI in a `.kv` file and all the logic of the app within the `.py` file.

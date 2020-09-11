@@ -660,3 +660,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** This package has it's own language, which looks like a CSS. You can separate all the GUI in a `.kv` file and all the logic of the app within the `.py` file.
 
 **Link to work:** no link for this part.
+
+### Day 74: September 10, 2020
+
+**Today's Progress:** Studied a bit more of Kivy and started to make a simple calculator.
+
+**Thoughts:** I did a quick design with simples buttons and now I have to write the logic.
+
+**Link to work:** no link for this part.

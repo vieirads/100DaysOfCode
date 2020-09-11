@@ -668,3 +668,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** I did a quick design with simples buttons and now I have to write the logic.
 
 **Link to work:** no link for this part.
+
+### Day 75: September 11, 2020
+
+**Today's Progress:** Struggled to make the calculator using kivy. Tomorrow I will try again.
+
+**Thoughts:** I am not having enough time to study the way I wanted, because I have a test next week.
+
+**Link to work:** no link for this part.

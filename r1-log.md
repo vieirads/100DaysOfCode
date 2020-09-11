@@ -254,3 +254,7 @@ This package has it's own language, which looks like a CSS. You can separate all
 ### R1D74
 Studied a bit more of Kivy and started to make a simple calculator.
 I did a quick design with simples buttons and now I have to write the logic.
+
+### R1D75
+Struggled to make the calculator using kivy. Tomorrow I will try again.
+I am not having enough time to study the way I wanted, because I have a test next week.

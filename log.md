@@ -676,3 +676,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** I am not having enough time to study the way I wanted, because I have a test next week.
 
 **Link to work:** no link for this part.
+
+### Day 76: September 12, 2020
+
+**Today's Progress:** I didn't code today. I had to study for my upcoming test.
+
+**Thoughts:** I wanted to code, but I had to study for something else right now.
+
+**Link to work:** no link for this part.

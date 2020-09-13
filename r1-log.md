@@ -258,3 +258,7 @@ I did a quick design with simples buttons and now I have to write the logic.
 ### R1D75
 Struggled to make the calculator using kivy. Tomorrow I will try again.
 I am not having enough time to study the way I wanted, because I have a test next week.
+
+### R1D76
+I didn't programmed today. I had to study for my upcoming test.
+I wanted to code, but I had to study for something else right now.

@@ -262,3 +262,7 @@ I am not having enough time to study the way I wanted, because I have a test nex
 ### R1D76
 I didn't programmed today. I had to study for my upcoming test.
 I wanted to code, but I had to study for something else right now.
+
+### R1D77
+I didn't programmed today. I had to study for my upcoming test.
+I wanted to code, but I had to study for something else right now.

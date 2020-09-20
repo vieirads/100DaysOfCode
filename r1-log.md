@@ -286,3 +286,7 @@ I wanted to code, but I had to study for something else right now.
 ### R1D82
 I didn't code today. I had to study for my upcoming test.
 I wanted to code, but I had to study for something else right now.
+
+### R1D83
+I didn't code today. I had to study for my upcoming test.
+I wanted to code, but I had to study for something else right now.

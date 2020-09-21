@@ -290,3 +290,7 @@ I wanted to code, but I had to study for something else right now.
 ### R1D83
 I didn't code today. I had to study for my upcoming test.
 I wanted to code, but I had to study for something else right now.
+
+### R1D84
+I didn't code today. After the test, I decided to take a day off.
+Tomorrow I will be back to coding.

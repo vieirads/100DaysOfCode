@@ -294,3 +294,7 @@ I wanted to code, but I had to study for something else right now.
 ### R1D84
 I didn't code today. After the test, I decided to take a day off.
 Tomorrow I will be back to coding.
+
+### R1D85
+Analyzed a simple experimento of a unidimensional movement with constant speed in python. I used classes to obtain the aceleration of the system using a linear fit.
+Tomorrow I will be back to learn kivy.

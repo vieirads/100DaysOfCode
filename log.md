@@ -748,3 +748,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** Tomorrow I will be back to coding.
 
 **Link to work:** no link for this part.
+
+### Day 85: September 21, 2020
+
+**Today's Progress:** Analyzed a simple experimento of a unidimensional movement with constant speed in python. I used classes to obtain the aceleration of the system using a linear fit.
+
+**Thoughts:** Tomorrow I will be back to learn kivy.
+
+**Link to work:** no link for this part.

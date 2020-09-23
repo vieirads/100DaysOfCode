@@ -756,3 +756,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** Tomorrow I will be back to learn kivy.
 
 **Link to work:** no link for this part.
+
+### Day 86: September 22, 2020
+
+**Today's Progress:** Today I analyzed the damped harmonic oscilator using python. I also continued my studies on kivy (finally!).
+
+**Thoughts:** I hope to finish my calculator using kivy by the end of this week.
+
+**Link to work:** no link for this part.

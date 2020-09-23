@@ -296,5 +296,9 @@ I didn't code today. After the test, I decided to take a day off.
 Tomorrow I will be back to coding.
 
 ### R1D85
-Analyzed a simple experimento of a unidimensional movement with constant speed in python. I used classes to obtain the aceleration of the system using a linear fit.
+Analyzed a simple experiment of a unidimensional movement with constant speed in python. I used classes to obtain the aceleration of the system using a linear fit.
 Tomorrow I will be back to learn kivy.
+
+### R1D86
+Today I analyzed the damped harmonic oscilator using python. I also continued my studies on kivy (finally!).
+I hope to finish my calculator using kivy by the end of this week.

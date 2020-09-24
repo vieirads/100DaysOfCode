@@ -764,3 +764,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** I hope to finish my calculator using kivy by the end of this week.
 
 **Link to work:** no link for this part.
+
+### Day 87: September 23, 2020
+
+**Today's Progress:** Studied a bit more of kivy and manage to make my calculator app work. It does simple operations.
+
+**Thoughts:** I tried to implement trigonometric functions, but there was an error occurring with the packages. I will learn more about this tomorrow.
+
+**Link to work:** no link for this part.

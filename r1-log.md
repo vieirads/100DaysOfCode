@@ -310,3 +310,6 @@ I tried to implement trigonometric functions, but there was an error occurring w
 ### R1D88
 Studied a bit more of kivy
 Still have to figure out how to use other packages with kivy.
+
+### R1D88
+Studied a bit more of kivy.

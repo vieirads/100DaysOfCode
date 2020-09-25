@@ -306,3 +306,7 @@ I hope to finish my calculator using kivy by the end of this week.
 ### R1D87
 Studied a bit more of kivy and manage to make my calculator app work. It does simple operations.
 I tried to implement trigonometric functions, but there was an error occurring with the packages. I will learn more about this tomorrow.
+
+### R1D88
+Studied a bit more of kivy
+Still have to figure out how to use other packages with kivy.

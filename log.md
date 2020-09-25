@@ -772,3 +772,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** I tried to implement trigonometric functions, but there was an error occurring with the packages. I will learn more about this tomorrow.
 
 **Link to work:** no link for this part.
+
+### Day 88: September 24, 2020
+
+**Today's Progress:** Studied a bit more of kivy
+
+**Thoughts:** Still have to figure out how to use other packages with kivy.
+
+**Link to work:** no link for this part.

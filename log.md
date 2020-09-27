@@ -788,3 +788,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** 
 
 **Link to work:** no link for this part.
+
+### Day 90: September 26, 2020
+
+**Today's Progress:** Studied a bit more of kivy
+
+**Thoughts:** 
+
+**Link to work:** no link for this part.

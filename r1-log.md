@@ -311,5 +311,8 @@ I tried to implement trigonometric functions, but there was an error occurring w
 Studied a bit more of kivy
 Still have to figure out how to use other packages with kivy.
 
-### R1D88
+### R1D89
+Studied a bit more of kivy.
+
+### R1D90
 Studied a bit more of kivy.

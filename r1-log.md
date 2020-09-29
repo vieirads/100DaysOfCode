@@ -319,3 +319,7 @@ Studied a bit more of kivy.
 
 ### R1D91
 Studied a bit more of kivy.
+
+### R1D92
+Studied a bit more of kivy. Started creating my todo app. Already include a screen where you can add and delete tasks.
+Kivy language is quite similar to HTML and CSS.

@@ -804,3 +804,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** 
 
 **Link to work:** no link for this part.
+
+### Day 92: September 28, 2020
+
+**Today's Progress:** Studied a bit more of kivy. Started creating my todo app. Already include a screen where you can add and delete tasks.
+
+**Thoughts:** Kivy language is quite similar to HTML and CSS.
+
+**Link to work:** no link for this part.

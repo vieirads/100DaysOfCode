@@ -812,3 +812,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** Kivy language is quite similar to HTML and CSS.
 
 **Link to work:** no link for this part.
+
+### Day 93: September 29, 2020
+
+**Today's Progress:** Studied a bit more of kivy. Continued my todo app. I have included transition of screens using the ScreenViewer and Screen objects. I also included a keyboard event using the `esc` key (code equal the number 27), which is used to account for the `return` button in an android system.
+
+**Thoughts:** So far I am using everything from a tutorial adding a little more stuff to it. 
+
+**Link to work:** no link for this part.

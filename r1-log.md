@@ -323,3 +323,7 @@ Studied a bit more of kivy.
 ### R1D92
 Studied a bit more of kivy. Started creating my todo app. Already include a screen where you can add and delete tasks.
 Kivy language is quite similar to HTML and CSS.
+
+### R1D93
+Studied a bit more of kivy. Continued my todo app. I have included transition of screens using the ScreenViewer and Screen objects. I also included a keyboard event using the `esc` key (code equal the number 27), which is used to account for the `return` button in an android system.
+So far I am using everything from a tutorial adding a little more stuff to it. 

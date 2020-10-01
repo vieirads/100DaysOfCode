@@ -327,3 +327,7 @@ Kivy language is quite similar to HTML and CSS.
 ### R1D93
 Studied a bit more of kivy. Continued my todo app. I have included transition of screens using the ScreenViewer and Screen objects. I also included a keyboard event using the `esc` key (code equal the number 27), which is used to account for the `return` button in an android system.
 So far I am using everything from a tutorial adding a little more stuff to it. 
+
+### R1D94
+Studied a bit more of kivy. Continued my todo app. I have added one more option: `Pomodoro`. In the main menu you can select this option and it will redirect you to another screen which has a pomodoro task counter, still not working though. I also learned how to create templates on kivy language using the <MyTemplate@Object1+Object2> where `MyTemplate` is the name you want to use to have the same properties and `Object1` and `Object2` are the objects of which you want to use the properties. This make the code cleaner.
+So far I am using everything from a tutorial adding a little more stuff to it, like, today, I manage to create a nicer button from what a learned on the tutorial.

@@ -828,3 +828,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:** So far I am using everything from a tutorial adding a little more stuff to it, like, today, I manage to create a nicer button from what a learned on the tutorial. 
 
 **Link to work:** no link for this part.
+
+### Day 95: October 01, 2020
+
+**Today's Progress:** Did not programmed today, had a day full of classes to prepare and to teach.
+
+**Thoughts:**  
+
+**Link to work:** no link for this part.

@@ -334,3 +334,15 @@ So far I am using everything from a tutorial adding a little more stuff to it, l
 
 ### R1D95
 Did not programmed today, had a day full of classes to prepare and to teach.
+
+### R1D96
+Programmed a bit in python. Worked with classes on a small project.
+
+### R1D97
+Programmed a bit in python. Worked with classes on a small project.
+
+### R1D98
+Programmed a bit in python. Worked with classes on a small project.
+
+### R1D99
+Did not programmed today, had a day full of classes to prepare and to teach.

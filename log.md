@@ -836,3 +836,35 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:**  
 
 **Link to work:** no link for this part.
+
+### Day 96: October 02, 2020
+
+**Today's Progress:** Programmed a bit in python. Worked with classes on a small project.
+
+**Thoughts:**  
+
+**Link to work:** no link for this part.
+
+### Day 97: October 03, 2020
+
+**Today's Progress:** Programmed a bit in python. Worked with classes on a small project.
+
+**Thoughts:**  
+
+**Link to work:** no link for this part.
+
+### Day 98: October 04, 2020
+
+**Today's Progress:** Programmed a bit in python. Worked with classes on a small project.
+
+**Thoughts:**  
+
+**Link to work:** no link for this part.
+
+### Day 99: October 05, 2020
+
+**Today's Progress:** Did not programmed today, had a day full of classes to prepare and to teach.
+
+**Thoughts:**  
+
+**Link to work:** no link for this part.

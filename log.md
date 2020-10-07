@@ -868,3 +868,11 @@ When we are resing the window, we can change how the grid is displayed to a bett
 **Thoughts:**  
 
 **Link to work:** no link for this part.
+
+### Day 100: October 06, 2020
+
+**Today's Progress:** Did not programmed today, had a day full of classes to prepare and to teach.
+
+**Thoughts:**  
+
+**Link to work:** no link for this part.

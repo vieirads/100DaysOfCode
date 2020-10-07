@@ -346,3 +346,6 @@ Programmed a bit in python. Worked with classes on a small project.
 
 ### R1D99
 Did not programmed today, had a day full of classes to prepare and to teach.
+
+### R1D100
+Did not programmed today, had a day full of classes to prepare and to teach.

@@ -349,3 +349,6 @@ Did not programmed today, had a day full of classes to prepare and to teach.
 
 ### R1D100
 Did not programmed today, had a day full of classes to prepare and to teach.
+
+### R2D1
+Did not programmed today. Had to prepare a list of problems for the students.
